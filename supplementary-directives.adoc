@@ -9,7 +9,9 @@ The repository is located under [GIT ISO URL]/projects/ISOTC184SC4/repos/boilerp
 The required text is placed as fragments and is maintained to keep alignment with the ISO Directives (updated and validated using the change management process of ISO/TC 184/SC 4).
 
 The required text is between two parts:
+
 * the first part consists of:
+
 ** the name of the folder where the boilerplate text is defined;
 ** the identifier that is enclosed between the “:” and the final “]”.
 * the second part is [end_folder].
@@ -108,6 +110,7 @@ REFERENCE FROM <schema_2 name>
 ----
 
 Where interface statements occur, place a note following the schema declaration that identifies the source(s) of the interfaced schema(s). These sources may be any of the following:
+
 * another clause of the same part;
 * another part of the same SC 4 standard;
 * a different standard.
@@ -252,6 +255,7 @@ NOTE 1 See 6.9.2 for an example of the documentation of an entity data type.
 The following rules apply to documenting an entity data type.
 * Each entity data type definition shall be a new subclause. The title of the subclause shall be the name of the entity data type exactly as it appears in the EXPRESS declaration (lower case with underscores). See 6.5.2.2 for the requirements that apply to naming of entity data types.
 * The definition of an entity data type shall state clearly the following:
+
 * the concept that the entity data type represents;
 * the information about the concept that is represented in the data structure and constraints defined by the entity data type.
 
@@ -265,6 +269,7 @@ When the name of the entity data type without underscore and in normal text (not
 The EXPRESS declaration for the entity data type follows the definition. The declaration shall be introduced by the underlined title “EXPRESS specification:” and delimited by comment markers as specified in 6.2.4.
 
 Following the EXPRESS declaration, all attributes (both explicit and derived) shall be documented. The attribute definitions shall be introduced by the underlined title “Attribute definitions:”. The following rules apply to the documentation of attribute definitions:
+
 * The attributes shall be documented in the same order as they appear in the EXPRESS declaration.
 * The attribute definitions shall be presented as follows.
 
@@ -338,6 +343,7 @@ The following requirements apply to documenting subtype constraints.
 ==== 6.7.12.1 General requirements
 
 The following rules apply to documenting function (or procedure) definitions:
+
 * All functions shall be declared/defined in the “<schema name> function definitions” subclause.
 * Each function shall constitute a new subclause. The title shall be the name of the function exactly as it appears in the EXPRESS declaration (lower case with underscores). The name should not be abbreviated (see 6.5.2.6 for constraints on the maximum length of EXPRESS identifiers).
 * If there is only one function declaration in a schema, it should appear in a single subclause titled <schema name> function definition: “<function name>“.
@@ -349,11 +355,13 @@ The following rules apply to documenting function (or procedure) definitions:
 ** The definition of the argument shall follow the name of the argument, starting on the same line. Each definition shall include whether the argument is an input, output, or both, and enumerate and define any error conditions that may result from the function.
 
 EXPRESS functions and procedures and their application to entities may be documented by three different methods according to the completeness of the specification included in the standard. These methods are as follows:
+
 * functions and procedures that are fully specified in EXPRESS (see 6.7.12.2);
 * functions and procedures that cannot, or cannot easily, be specified in EXPRESS but can be implemented within a specific application system (see 6.7.12.3);
 * functions or procedures that cannot be implemented at all, either within EXPRESS or within an application system (see 6.7.12.4).
 
 When the EXPRESS declaration of a function is not or cannot be explicitly specified, an EXPRESS comment should replace the body of the function stating the following:
+
 * why the appropriate EXPRESS language statements are missing;
 * what the function is intended to do.
 
@@ -472,6 +480,7 @@ For all parts in the ISO 10303 series, the following documents provide applicabl
 In addition, Clause 5 of this document (Requirements for the structure and content of SC4 standards) applies.
 
 * the following individual groups of parts within the ISO 10303 series have specific documentation requirements:
+
 ** the integrated resources series (see 8.2);
 ** the application protocol series (see 8.3);
 ** the application module series (see 8.4);
@@ -550,7 +559,10 @@ An example reads as follows:
 ----
 [ISO_10303:10303_annex-expg-1]
 
-The diagrams in this annex correspond to the EXPRESS schemas specified in this document. The diagrams use the EXPRESS-G graphical notation for the EXPRESS language. EXPRESS-G is defined in Annex D of ISO 10303-11.
+The diagrams in this annex correspond to the EXPRESS schemas
+specified in this document. The diagrams use the EXPRESS-G graphical
+notation for the EXPRESS language. EXPRESS-G is defined in Annex D
+of ISO 10303-11.
 
 [end_ISO_10303]
 ----
