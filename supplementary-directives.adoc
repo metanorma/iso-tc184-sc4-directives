@@ -514,7 +514,13 @@ An example reads as follows:
 
 ----
 [ISO_10303:10303_introduction]
-ISO 10303 is an International Standard for the computer-interpretable representation of product information and for the exchange of product data. The objective is to provide a neutral mechanism capable of describing products throughout their life cycle. This mechanism is suitable not only for neutral file exchange, but also as a basis for implementing and sharing product databases, and as a basis for retention and archiving.
+ISO 10303 is an International Standard for the
+computer-interpretable representation of product information and for
+the exchange of product data. The objective is to provide a neutral
+mechanism capable of describing products throughout their life
+cycle. This mechanism is suitable not only for neutral file
+exchange, but also as a basis for implementing and sharing product
+databases, and as a basis for retention and archiving.
 [end_ISO_10303]
 ----
 
