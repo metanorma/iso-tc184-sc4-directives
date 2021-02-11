@@ -186,6 +186,7 @@ UR1: The name shall be unique.
 ==== 6.7.7 Documentation of informal propositions
 
 Informal propositions are un-computable constraints that cannot, or cannot reasonably, be written in EXPRESS, although each informal proposition still represents a requirement. If an EXPRESS declaration exists or EXPRESS-like pseudo-code has been written, it may be included in an informative annex as a technical discussion. Each informal proposition shall be presented as follows.
+
 * The informal propositions shall be preceded by the underlined title “Informal propositions:”.
 * Each informal proposition shall be given a label, corresponding to the local rule labels that appear in formal propositions. By convention, informal propositions in ISO 10303 parts are labelled IP1, IP2, and so on.
 
@@ -253,11 +254,12 @@ If there is no other reasonable order, the entities shall appear in alphabetical
 NOTE 1 See 6.9.2 for an example of the documentation of an entity data type.
 
 The following rules apply to documenting an entity data type.
+
 * Each entity data type definition shall be a new subclause. The title of the subclause shall be the name of the entity data type exactly as it appears in the EXPRESS declaration (lower case with underscores). See 6.5.2.2 for the requirements that apply to naming of entity data types.
 * The definition of an entity data type shall state clearly the following:
 
-* the concept that the entity data type represents;
-* the information about the concept that is represented in the data structure and constraints defined by the entity data type.
+** the concept that the entity data type represents;
+** the information about the concept that is represented in the data structure and constraints defined by the entity data type.
 
 When the name of the entity data type without underscore and in normal text (not boldface) is used, it stands for the concept that the entity data type represents.
 
@@ -308,6 +310,7 @@ NOTE The wording specified in the example above is much clearer if changed to: �
 === 6.7.10 Rule documentation requirements
 
 The following requirements apply to documenting rules.
+
 * All rules shall be declared/defined in the “<schema name> rule definitions” subclause.
 * Each rule shall constitute a new subclause. The title shall be the name of the rule exactly as it appears in the EXPRESS declaration (lower case with underscores). This name should not be abbreviated and should comprise, where possible, proper English words (see 6.5.2.6 for constraints on the maximum length of EXPRESS identifiers).
 * If there is only one rule declaration in a schema, the rule declaration shall appear in a single subclause titled “<schema name> rule definition: <rule name>”.
@@ -332,6 +335,7 @@ NOTE This rule is based on an unelaborated EXPRESS function.
 === 6.7.11 Subtype constraint documentation requirements
 
 The following requirements apply to documenting subtype constraints.
+
 * All subtype constraints shall be declared/defined in the “<schema name> subtype constraint definitions” subclause.
 * Each subtype constraint shall constitute a new subclause. The title shall be the name of the subtype constraint exactly as it appears in the EXPRESS declaration (lower case with underscores). This name should not be abbreviated (see 6.5.2.6 for constraints on the maximum length of EXPRESS identifiers).
 * If there is only one subtype constraint declaration in a schema, the declaration shall appear in a single subclause titled “<schema name> subtype constraint definition: < subtype constraint name>”.
@@ -368,6 +372,7 @@ When the EXPRESS declaration of a function is not or cannot be explicitly specif
 ==== 6.7.12.2 Functions and procedures fully specified in EXPRESS
 
 Functions and procedures fully specified in EXPRESS shall be documented as follows.
+
 * The full EXPRESS specification of the function or procedure shall be documented in an appropriate subclause.
 * The function or procedure shall be used as part of the definition of a constraint in one or more types or entity data types.
 
@@ -403,6 +408,7 @@ WR1: xxx;
 ==== 6.7.12.3 Functions and procedures that can be implemented within a specific application system
 
 Functions and procedures that cannot, or cannot easily, be implemented in EXPRESS but can be implemented within a specific application system, shall be documented as follows.
+
 * The EXPRESS specification of the function or procedure shall include the phrase “unelaborated function/procedure” as a tail remark together with text describing the intent of the function.
 * The function or procedure shall be used as part of the definition of a constraint in one or more types or entity data types.
 
