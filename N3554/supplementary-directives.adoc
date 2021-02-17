@@ -181,9 +181,9 @@ The following is outside the scope of this document:
 
 The following documents are referred to in the text in such a way that some or all of their content constitutes requirements of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.
 
-* [[[isodir2,ISO/IEC Directives Part 2]]], _Principles and rules for the structure and drafting of ISO and IEC documents_
+* [[[isodir2,ISO/IEC DIR 2 ISO]]], _Principles and rules for the structure and drafting of ISO and IEC documents_
 
-* [[[isodir1,ISO/IEC Directives Part 1]]], _Procedures specific to ISO The ISO Simple template_ footnote:f2[available at https://isotc.iso.org/livelink/livelink/properties/17851245]
+* [[[isodir1,ISO/IEC DIR 1 ISO SUP]]], _Procedures specific to ISO The ISO Simple template_ footnote:f2[available at https://isotc.iso.org/livelink/livelink/properties/17851245]
 
 * [[[iso1110,ISO TC 184/SC 4 N1110]]], _SC 4 Quality Manual_footnote:f3[These documents will be updated, please check the https://isotc.iso.org/livelink/livelink?func=ll&objId=11568437&objAction=browse&viewType=1[SC 4 Standing Documents Folder] available at https://isotc.iso.org/livelink/livelink?func=ll&objId=11568437&objAction=browse&viewType=1]
 
