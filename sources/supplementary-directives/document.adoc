@@ -6,13 +6,9 @@
 :revdate: 2021-01-05
 :copyright-year: 2021
 :language: en
-:title-intro-en: Rules for the structure and drafting of SC 4 standards for industrial data
-:title-main-en:
-:title-part-en: 
-:title-intro-fr: 
-:title-main-fr: 
-:title-part-fr: 
-:doctype: supplementary-directives
+:title-main-en: Rules for the structure and drafting of SC 4 standards for industrial data
+:title-main-fr: Règles pour la structure et la rédaction des normes SC 4 pour les données industrielles
+:doctype: guide
 :docstage: 60
 :docsubstage: 60
 :technical-committee-number: 184
@@ -20,17 +16,12 @@
 :technical-committee: Industrial Automation Systems and Integration
 :subcommittee-number: 4
 :subcommittee: Industrial Data
-:workgroup-type:
-:workgroup-number:
-:workgroup:
-:docfile: rice-en.covers.awi.adoc
 :library-ics:
 :imagesdir: images
 :mn-document-class: iso
 :mn-output-extensions: xml,html,doc,html_alt,pdf,rxl
 :local-cache-only:
 :data-uri-image:
-
 
 .Preface
 
@@ -42,7 +33,8 @@ Major revisions
 
 [%unnumbered]
 |===
-^h| Document ^h| Date ^h| Notes
+| Document | Date | Notes
+
 | SC 4 N3554 | 2021-01-14 a| SC4 Supplementary directives — Rules for the structure and drafting of SC4 standards for industrial data, Edition 6 — document ballot +
 The document integrates the ballot comments from N3493 and two other bugs.
 | SC 4 N3493 | 2020-07-31 a| SC4 Supplementary directives — Rules for the structure and drafting of SC4 standards for industrial data, Edition 5
@@ -52,6 +44,7 @@ The document integrates the ballot comments from N3493 and two other bugs.
 | SC 4 N1191 | 2001-08-08 | SC4 Supplementary directives — Rules for the structure and drafting of SC4 standards for industrial data
 | SC 4 N858 | 1999-04-29 | Draft Supplementary directives for the drafting and presentation of ISO 10303, second edition – submitted for SC 4 standing document ballot
 | SC 4 N537 | 1997-03-30 | Supplementary directives for the drafting and presentation of ISO 10303 – approved by SC 4 for all ISO 10303
+
 |===
 
 This document will be reviewed again not later than January 2024 or immediately if any change in the ISO/IEC Directives, Part 2 has potential consequences for the content of this document.
@@ -208,16 +201,9 @@ The following documents are referred to in the text in such a way that some or a
 * [[[iso3504,ISO TC 184/SC 4 N3504]]], _STEP extended architecture publication design_
 
 [[cls_3]]
-//== Terms, definitions and abbreviated terms.
-== Terms and definitions
+== Terms, definitions and abbreviated terms.
 
-For the purposes of this document, the following terms apply.
-
-ISO and IEC maintain terminological databases for use in standardization at the following addresses:
-
-* ISO Online browsing platform: available at https://www.iso.org/obp
-* IEC Electropedia: available at http://www.electropedia.org/
-
+[.nonterm]
 [[scls_3-1]]
 === Terms related to document type
 
@@ -320,6 +306,7 @@ NOTE: Prior to mid-1999, Technical Reports were designated as Technical Reports 
 [.source]
 <<isodir2, clause "3.1.8">>
 
+[.nonterm]
 [[scls_3-2]]
 === Terms related to elements of a document
 
@@ -369,6 +356,7 @@ element that the writer of a term:[document] may choose to include or not
 [.source]
 <<isodir2, clause "3.2.5">>, modified, EXAMPLE removed
 
+[.nonterm]
 [[scls_3-3]]
 === Terms related to provisions
 
@@ -462,6 +450,7 @@ NOTE: Use of the word "must" does not imply that the external constraint referre
 <<isodir2, clause "3.3.8">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
+[.nonterm]
 [[scls_3-4]]
 === Terms related to SC 4 standards
 
@@ -700,8 +689,6 @@ STEPlib is also the name of the top-level model of the SysML model tree used for
 [[scls_3-5]]
 === Abbreviated terms
 
-For the purposes of this document, the following abbreviations apply.
-
 AIC:: application interpreted construct (see term:[application interpreted construct])
 AM:: application module (see term:[application module])
 AP:: application protocol (see term:[application protocol])
@@ -725,6 +712,7 @@ TR:: Technical Report
 URL:: uniform resource locator
 WD:: working draft
 WG:: working group
+
 
 [[cls_4]]
 == Characteristics of an SC 4 standard

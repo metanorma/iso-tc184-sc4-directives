@@ -1,0 +1,17 @@
+= ISO/TC 184/SC 4 standing documents
+
+image:https://github.com/metanorma/iso-tc184-sc4-directives/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/iso-tc184-sc4-directives/actions?query=workflow%3Adocker"]
+
+== Purpose
+
+This repository provides ISO/TC 184/SC 4 standing documents in Metanorma format.
+
+The source of these documents are at https://isotc.iso.org/livelink/livelink?func=ll&objId=11568437&objAction=browse&viewType=1[ISO LiveLink].
+
+////
+== Access
+
+Documents in this repository are available through the deployed mini-site:
+
+* https://metanorma.github.io/iso-tc184-sc4-directives/[ISO/TC 184/SC 4 in Metanorma documents]
+////

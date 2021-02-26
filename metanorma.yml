@@ -1,0 +1,9 @@
+---
+metanorma:
+  source:
+    files:
+      - sources/supplementary-directives/document.adoc
+
+  collection:
+    organization: "ISO/TC 184/SC 4"
+    name: "Public committee documents"
