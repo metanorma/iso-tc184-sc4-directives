@@ -207,18 +207,16 @@ The following documents are referred to in the text in such a way that some or a
 [[scls_3-1]]
 === Terms related to document type
 
-[[document]]
 ==== document
 
 ISO or IEC standardization draft or publication
 
 [example]
-term:[International Standard], term:[Technical Specification], term:[Publicly Available Specification], term:[Technical Report] and term:[Guide].
+term:[International Standard, International Standards], term:[Technical Specification, Technical Specifications], term:[Publicly Available Specification, Publicly Available Specifications], term:[Technical Report, Technical Reports] and term:[Guide, Guides].
 
 [.source]
 <<isodir2, clause "3.1.1">>
 
-[[standard]]
 ==== standard
 
 term:[document], established by consensus and approved by a recognized body, that provides, for common and repeated use, rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context
@@ -228,7 +226,6 @@ NOTE: Standards should be based on the consolidated results of science, technolo
 [.source]
 <<isogui2, clause "3.2">>
 
-[[international_standard]]
 ==== international standard
 
 term:[standard] that is adopted by an international standardizing/standards organization and made available to the public
@@ -236,7 +233,6 @@ term:[standard] that is adopted by an international standardizing/standards orga
 [.source]
 <<isogui2, clause "3.2.1.1">>
 
-[[International_Standard]]
 ==== International Standard
 
 term:[international standard] where the international standards organization is ISO or IEC
@@ -244,7 +240,6 @@ term:[international standard] where the international standards organization is 
 [.source]
 <<isodir2, clause "3.1.3">>
 
-[[Technical_Specification]]
 ==== Technical Specification
 
 alt:[TS]
@@ -256,18 +251,17 @@ term:[document] published by ISO or IEC for which there is the future term:[poss
 * the subject matter is still under technical development, or
 * there is another reason precluding immediate publication as an International Standard
 
-NOTE: The content of a Technical Specification, including its annexes, may include term:[requirement].
+NOTE: The content of a Technical Specification, including its annexes, may include term:[requirement, requirements].
 
 NOTE: A Technical Specification is not allowed to conflict with an existing International Standard.
 
 NOTE: Competing Technical Specifications on the same subject are permitted.
 
-NOTE: Prior to mid-1999, Technical Specifications were designated as term:[Technical Report] of type 1 or 2.
+NOTE: Prior to mid-1999, Technical Specifications were designated as term:[Technical Report, Technical Reports] of type 1 or 2.
 
 [.source]
 <<isodir2, clause "3.1.5">>
 
-[[Publicly_Available_Specification]]
 ==== Publicly Available Specification
 alt:[PAS]
 
@@ -283,17 +277,15 @@ NOTE: Competing Publicly Available Specifications on the same subject are permit
 [.source]
 <<isodir2, clause "3.1.6">>
 
-[[Guide]]
 ==== Guide
 
-term:[document] published by ISO or IEC giving rules, orientation, advice or term:[recommendation] relating to international standardization
+term:[document] published by ISO or IEC giving rules, orientation, advice or term:[recommendation, recommendations] relating to international standardization
 
 NOTE: Guides can address issues of interest to all users of documents published by ISO and IEC.
 
 [.source]
 <<isodir2, clause "3.1.7">>
 
-[[Technical_Report]]
 ==== Technical Report
 alt:[TR]
 
@@ -310,15 +302,13 @@ NOTE: Prior to mid-1999, Technical Reports were designated as Technical Reports 
 [[scls_3-2]]
 === Terms related to elements of a document
 
-[[normative_element]]
 ==== normative element
 
-element that describes the scope of the term:[document] or sets out term:[provision]
+element that describes the scope of the term:[document] or sets out term:[provision, provisions]
 
 [.source]
 <<isodir2, clause "3.2.1">>
 
-[[informative_element]]
 ==== informative element
 
 element intended to assist the understanding or use of the term:[document] or that provides contextual information about its content, background or relationship with other documents
@@ -326,7 +316,6 @@ element intended to assist the understanding or use of the term:[document] or th
 [.source]
 <<isodir2, clause "3.2.2">>
 
-[[mandatory_element]]
 ==== mandatory element
 
 element that has to be present in a term:[document]
@@ -337,10 +326,9 @@ The Scope is an example of a mandatory element.
 [.source]
 <<isodir2, clause "3.2.3">>
 
-[[conditional_element]]
 ==== conditional element
 
-element that is present depending on the term:[provision] of the particular term:[document]
+element that is present depending on the term:[provision, provisions] of the particular term:[document]
 
 [example]
 The symbols and abbreviated terms clause is an example of a conditional element.
@@ -348,7 +336,6 @@ The symbols and abbreviated terms clause is an example of a conditional element.
 [.source]
 <<isodir2, clause "3.2.4">>
 
-[[optional_element]]
 ==== optional element
 
 element that the writer of a term:[document] may choose to include or not
@@ -360,7 +347,6 @@ element that the writer of a term:[document] may choose to include or not
 [[scls_3-3]]
 === Terms related to provisions
 
-[[provision]]
 ==== provision
 
 expression in the content of a normative term:[document] that takes the form of a term:[statement], an instruction, a term:[recommendation] or a term:[requirement]
@@ -370,7 +356,6 @@ NOTE: These forms of provision are distinguished by the form of wording they emp
 [.source]
 <<isogui2, clause "7.1 (2)">>
 
-[[statement]]
 ==== statement
 
 expression, in the content of a term:[document], that conveys information
@@ -381,7 +366,6 @@ NOTE: Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for
 <<isodir2, clause "3.3.2">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
-[[requirement]]
 ==== requirement
 
 expression, in the content of a term:[document], that conveys objectively verifiable criteria to be fulfilled and from which no deviation is permitted if conformance with the document is to be claimed
@@ -392,7 +376,6 @@ NOTE: Modified, Requirements are expressed using the verbal forms specified in T
 <<isodir2, clause "3.3.3">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
-[[recommendation]]
 ==== recommendation
 
 expression, in the content of a term:[document], that conveys a suggested possible choice or course of action deemed to be particularly suitable without necessarily mentioning or excluding others
@@ -404,7 +387,6 @@ NOTE: In the negative form, a recommendation is the expression that a suggested 
 [.source]
 <<isodir2, clause "3.3.4">>, modified, "of ISO/IEC Directives, Part 2, 2018" added to Note 1 to entry.
 
-[[permission]]
 ==== permission
 
 expression, in the content of a term:[document], that conveys consent or liberty (or opportunity) to do something
@@ -415,7 +397,6 @@ NOTE: Permissions are expressed using the verbal forms specified in Table 5 of I
 <<isodir2, clause "3.3.5">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
-[[possibility]]
 ==== possibility
 
 expression, in the content of a term:[document], that conveys expected or conceivable material, physical or causal outcome
@@ -426,7 +407,6 @@ NOTE: Possibility is expressed using the verbal forms specified in Table 6 of IS
 <<isodir2, clause "3.3.6">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
-[[capability]]
 ==== capability
 
 expression, in the content of a term:[document], that conveys the ability, fitness, or quality necessary to do or achieve a specified thing
@@ -437,7 +417,6 @@ NOTE: Capability is expressed using the verbal forms specified in Table 6 of ISO
 <<isodir2, clause "3.3.7">>, modified, "of ISO/IEC Directives, Part 2, 2018" added
 to Note 1 to entry.
 
-[[external_constraint]]
 ==== external constraint
 
 constraint or obligation on the user of the term:[document] (e.g. laws of nature or particular conditions existing in some countries or regions) that is not stated as a term:[provision] of the document
@@ -454,7 +433,6 @@ to Note 1 to entry.
 [[scls_3-4]]
 === Terms related to SC 4 standards
 
-[[application]]
 ==== application
 
 one or more processes creating or using product data
@@ -462,16 +440,14 @@ one or more processes creating or using product data
 [.source]
 <<iso10303, clause "3.1.5">>
 
-[[application_interpreted_construct]]
 ==== application interpreted construct
 alt:[AIC]
 
-logical grouping of interpreted constructs that supports a specific function for the usage of product data across multiple application contexts. See <<interpretation>> for definition of interpretation
+logical grouping of interpreted constructs that supports a specific function for the usage of product data across multiple application contexts. See  <<term-interpretation>> for definition of interpretation
 
 [.source]
 <<iso10303, clause "3.1.9">>
 
-[[application_module]]
 ==== application module
 alt:[AM]
 
@@ -480,7 +456,6 @@ reusable collection of a scope statement, information requirements, mappings and
 [.source]
 <<iso10303, clause "3.1.11">>
 
-[[application_protocol]]
 ==== application protocol
 alt:[AP]
 
@@ -491,7 +466,6 @@ NOTE: This definition differs from the definition used in ISO 7498-2:1989 Inform
 [.source]
 <<iso10303, clause "3.1.17">>
 
-[[application_reference_model]]
 ==== application reference model
 alt:[ARM]
 
@@ -500,7 +474,6 @@ information model that describes the information requirements and constraints of
 [.source]
 <<iso10303, clause "3.1.18">>
 
-[[application_resource]]
 ==== application resource
 
 integrated resource whose contents are related to a group of application contexts
@@ -508,7 +481,6 @@ integrated resource whose contents are related to a group of application context
 [.source]
 <<iso10303, clause "3.1.19">>
 
-[[common_resources]]
 ==== common resources
 
 collection of information models, specified in the EXPRESS language, that can be reused to specify application-specific information models within the domain of industrial data
@@ -520,7 +492,6 @@ NOTE: The term does not specify a specific series of ISO 10303 parts.
 [.source]
 <<iso10303, clause "3.1.22">>
 
-[[conformance_class]]
 ==== conformance class
 
 subset of an application protocol for which conformance can be claimed
@@ -528,7 +499,6 @@ subset of an application protocol for which conformance can be claimed
 [.source]
 <<iso10303, clause "3.1.25">>
 
-[[data]]
 ==== data
 
 representation of information in a formal manner suitable for communication, interpretation, or processing by human beings or computers
@@ -536,7 +506,6 @@ representation of information in a formal manner suitable for communication, int
 [.source]
 <<iso10303, clause "3.1.29">>
 
-[[declaration_identifier]]
 ==== declaration identifier
 
 a string formatted according to defined rules that establishes a formal reference to a definition.
@@ -545,7 +514,6 @@ NOTE: A declaration identifier may be one term or may consist of a sequence of t
 
 NOTE: Breaks in the sequence may be identified by a change in case or by an explicit character, such as underscore or dash.
 
-[[generic_resource]]
 ==== generic resource
 
 integrated resource whose contents are independent of a specific application
@@ -556,7 +524,6 @@ Industrial automation systems and integration — Product data representation an
 [.source]
 <<iso10303, clause "3.1.38">>
 
-[[information]]
 ==== information
 
 facts, concepts or instructions
@@ -564,7 +531,6 @@ facts, concepts or instructions
 [.source]
 <<iso10303, clause "3.1.41">>
 
-[[information_model]]
 ==== information model
 
 conceptual model of product data
@@ -579,7 +545,6 @@ Application Resource Model for ISO 10303-242 Managed, model-based engineering.
 [.source]
 <<iso10303, clause "3.1.42">>
 
-[[integrated_resource]]
 ==== integrated resource
 alt:[IR]
 
@@ -596,7 +561,6 @@ ISO 10303-104: Integrated application resource: Finite element analysis
 [.source]
 <<iso10303, clause "3.1.43">>
 
-[[interpretation]]
 ==== interpretation
 
 process of adapting a resource construct to satisfy an application-specific requirement of an application protocol
@@ -606,12 +570,10 @@ NOTE: The interpretation process can involve the addition of restrictions on att
 [.source]
 <<iso10303, clause "3.1.42">>
 
-[[mapping_specification]]
 ==== mapping specification
 
 element of an application protocol that shows how the interpretation of integrated resources is used to meet the information requirements of the application
 
-[[module_interpreted_model]]
 ==== module interpreted model
 alt:[MIM]
 
@@ -625,7 +587,6 @@ Three-dimensional geometry information models are common resources used in many 
 [.source]
 <<iso10303, clause "3.1.45">>
 
-[[product]]
 ==== product
 
 thing or substance produced by a natural or artificial process
@@ -633,7 +594,6 @@ thing or substance produced by a natural or artificial process
 [.source]
 <<iso10303, clause "3.1.49">>
 
-[[product_data]]
 ==== product data
 
 representation of information about a product in a formal manner suitable for communication, interpretation, or processing by human beings or by computers
@@ -641,7 +601,6 @@ representation of information about a product in a formal manner suitable for co
 [.source]
 <<iso10303, clause "3.1.50">>
 
-[[resource_construct]]
 ==== resource construct
 
 collection of EXPRESS language entities, types, functions, rules and references that together define a valid description of an aspect of product data
@@ -649,7 +608,6 @@ collection of EXPRESS language entities, types, functions, rules and references 
 [.source]
 <<iso10303, clause "3.1.55">>
 
-[[separator]]
 ==== separator
 
 symbol or space enclosing or separating a part within a name; a delimiter
@@ -657,14 +615,12 @@ symbol or space enclosing or separating a part within a name; a delimiter
 [.source]
 <<iso11179, clause "4.28">>
 
-[[STEPmod]]
 ==== STEPmod
 
 collection of reusable XML building blocks for developing standards from information models defined in EXPRESS
 
 NOTE: An integral part of the repository's XML vocabulary is its representation of EXPRESS language constructs, i.e. its EXPRESS model. This specification shall refer to this EXPRESS model portion of the repository's XML vocabulary as STEPmod EXPRESS. The STEPmod Specification Reference is available at http://stepmod.sourceforge.net/express_model_spec/
 
-[[STEPlib]]
 ==== STEPlib
 
 data and tools needed for the development and publication of the components of the STEP Extended architecture
@@ -689,18 +645,18 @@ STEPlib is also the name of the top-level model of the SysML model tree used for
 [[scls_3-5]]
 === Abbreviated terms
 
-AIC:: application interpreted construct (see term:[application interpreted construct])
-AM:: application module (see term:[application module])
-AP:: application protocol (see term:[application protocol])
-ARM:: application reference model (see term:[application reference model])
-CC:: conformance class (see term:[conformance class])
+AIC:: application interpreted construct (see <<term-application-interpreted-construct>>)
+AM:: application module (see <<term-application-module>>)
+AP:: application protocol (see <<term-application-protocol>>)
+ARM:: application reference model (see <<term-application-reference-model>>)
+CC:: conformance class (see <<term-conformance-class>>)
 CD:: committee draft
 DIS:: draft international standard
 (E):: English
 FDIS:: final draft international standard
-IR:: integrated resource (see term:[integrated resource])
+IR:: integrated resource (see <<term-integrated-resource>>)
 IT:: information technology
-MIM:: module interpreted model (see term:[module interpreted model])
+MIM:: module interpreted model (see <<term-module-interpreted-model>>)
 NP:: new work item proposal
 PAS:: Publicly Available Specification
 PDF:: Portable Document Format
@@ -3570,9 +3526,9 @@ For the documentation of the integrated resources series of parts for ISO 10303 
 * ISO/TC 184/SC 4 N1548 — Guidelines for the format and layout of SC4 standards using HTML.
 * ISO 10303 IR standard developers may use the STEPmod documentation environments depending on the scope of their standard. Guidelines for these are available here: STEPmod Tutorial <<eurostep>>.
 
-A set of IRs (see <<integrated_resource>>) shall provide the specification of a representation of product information. Each IR comprises a set of descriptions, written in a formal data specification language, applicable to product data known as resource constructs. One set may be dependent on other sets for its definition. A single resource construct (See <<resource_construct>>) may represent similar information for different applications.
+A set of IRs (see <<term-integrated-resource>>) shall provide the specification of a representation of product information. Each IR comprises a set of descriptions, written in a formal data specification language, applicable to product data known as resource constructs. One set may be dependent on other sets for its definition. A single resource construct (See <<term-resource-construct>>) may represent similar information for different applications.
 
-The IRs in ISO 10303 are divided into two groups: generic resources (See <<generic_resource>>) and application resources (See <<application_resource>>). The generic resources are independent of applications and may reference other resources. The application resources may reference other resources and may add other resource constructs for use by a group of similar applications. The IRs may reference product data descriptions written using EXPRESS from other International Standards.
+The IRs in ISO 10303 are divided into two groups: generic resources (See <<term-generic-resource>>) and application resources (See <<term-application-resource>>). The generic resources are independent of applications and may reference other resources. The application resources may reference other resources and may add other resource constructs for use by a group of similar applications. The IRs may reference product data descriptions written using EXPRESS from other International Standards.
 
 Each part of ISO 10303 in the integrated resources series includes a clause for each schema that is documented in the part. See <<cls_6>> for requirements that apply to documenting EXPRESS schemas.
 
