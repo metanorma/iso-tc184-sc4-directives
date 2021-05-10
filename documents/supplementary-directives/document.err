@@ -1,0 +1,1620 @@
+/__w/iso-tc184-sc4-directives/iso-tc184-sc4-directives/site/documents/supplementary-directives/document.err errors
+
+
+== AsciiDoc Input
+
+(XML Line 000307): Error: Term reference in `term[international-standards]` missing:                 "international-standards" is not defined in document
+	<termxref>International Standards</termxref>
+(XML Line 000307): Error: Term reference in `term[technical-specifications]` missing:                 "technical-specifications" is not defined in document
+	<termxref>Technical Specifications</termxref>
+(XML Line 000307): Error: Term reference in `term[publicly-available-specifications]` missing:                 "publicly-available-specifications" is not defined in document
+	<termxref>Publicly Available Specifications</termxref>
+(XML Line 000307): Error: Term reference in `term[technical-reports]` missing:                 "technical-reports" is not defined in document
+	<termxref>Technical Reports</termxref>
+(XML Line 000307): Error: Term reference in `term[guides]` missing:                 "guides" is not defined in document
+	<termxref>Guides</termxref>
+(XML Line 000312): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000319): Error: Term reference in `term[standard]` missing:                 "standard" is not defined in document
+	<termxref>standard</termxref>
+(XML Line 000323): Error: Term reference in `term[international-standard]` missing:                 "international-standard" is not defined in document
+	<termxref>international standard</termxref>
+(XML Line 000330): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000330): Error: Term reference in `term[possibility]` missing:                 "possibility" is not defined in document
+	<termxref>possibility</termxref>
+(XML Line 000330): Error: Term reference in `term[international-standard]` missing:                 "international-standard" is not defined in document
+	<termxref>International Standard</termxref>
+(XML Line 000346): Error: Term reference in `term[requirements]` missing:                 "requirements" is not defined in document
+	<termxref>requirements</termxref>
+(XML Line 000355): Error: Term reference in `term[technical-reports]` missing:                 "technical-reports" is not defined in document
+	<termxref>Technical Reports</termxref>
+(XML Line 000363): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000373): Error: Term reference in `term[international-standard]` missing:                 "international-standard" is not defined in document
+	<termxref>International Standard</termxref>
+(XML Line 000381): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000381): Error: Term reference in `term[recommendations]` missing:                 "recommendations" is not defined in document
+	<termxref>recommendations</termxref>
+(XML Line 000391): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000391): Error: Term reference in `term[international-standard]` missing:                 "international-standard" is not defined in document
+	<termxref>International Standard</termxref>
+(XML Line 000391): Error: Term reference in `term[technical-specification]` missing:                 "technical-specification" is not defined in document
+	<termxref>Technical Specification</termxref>
+(XML Line 000401): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000401): Error: Term reference in `term[provisions]` missing:                 "provisions" is not defined in document
+	<termxref>provisions</termxref>
+(XML Line 000405): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000409): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000416): Error: Term reference in `term[provisions]` missing:                 "provisions" is not defined in document
+	<termxref>provisions</termxref>
+(XML Line 000416): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000423): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000430): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000430): Error: Term reference in `term[statement]` missing:                 "statement" is not defined in document
+	<termxref>statement</termxref>
+(XML Line 000430): Error: Term reference in `term[recommendation]` missing:                 "recommendation" is not defined in document
+	<termxref>recommendation</termxref>
+(XML Line 000430): Error: Term reference in `term[requirement]` missing:                 "requirement" is not defined in document
+	<termxref>requirement</termxref>
+(XML Line 000437): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000439): Error: Term reference in `term[possibility]` missing:                 "possibility" is not defined in document
+	<termxref>possibility</termxref>
+(XML Line 000439): Error: Term reference in `term[capability]` missing:                 "capability" is not defined in document
+	<termxref>capability</termxref>
+(XML Line 000448): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000459): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000472): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000483): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000494): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000505): Error: Term reference in `term[document]` missing:                 "document" is not defined in document
+	<termxref>document</termxref>
+(XML Line 000505): Error: Term reference in `term[provision]` missing:                 "provision" is not defined in document
+	<termxref>provision</termxref>
+(XML Line 000510): Error: Term reference in `term[requirement]` missing:                 "requirement" is not defined in document
+	<termxref>requirement</termxref>
+
+
+== Style
+
+(): Terms & definitions missing
+(): Normative References must be followed by Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(): Scope must occur before Terms and Definitions
+(XML Line 000060): Foreword may contain permission: ForewordIndividuals may use the contents of this document for the purposes of developing ISO standards and other documents
+	<foreword id="_ebc60e82-466b-41df-8a70-c367a2bf130e" obligation="informative"><title>Foreword</title><p id="_69914118-9b4c-4332-90fb-9596fedcf8f4">Individuals may use the contents of this document for the purposes of developing ISO standards and other documents.</p>
+	<p id="_e04c5b83-3eb7-4b22-8e13-6f90de652fc4">SC 4 standing documents specify procedures, methods, and guidelines for the development of SC 4 standards for industrial data. SC 4 standing documents, together with additional documents such as templates and checklists are available at <link target="https://isotc.iso.org/livelink/livelink?func=ll&amp;objId=11568437&amp;objAction=browse&amp;viewType=1">SC 4 Standing Documents Folder</link>.<fn reference="1"><p id="_411d77a3-1de6-45d2-9b3b-778662acfe55"><link target="https://isotc.iso.org/livelink/livelink?func=ll&amp;objId=11568437&amp;objAction=browse&amp;viewType=1"/></p></fn></p>
+	<p id="_e95e19c8-ced1-447e-8860-5016447ec16f">Major revisions</p>
+	<table id="_ed275a69-31ba-42a8-8477-8bc8b8f3c2fb" unnumbered="true">
+	<thead>
+(XML Line 000060): Foreword may contain recommendation: In particular, the different approval criteria needed for the different types of ISO documents should be noted
+	<foreword id="_ebc60e82-466b-41df-8a70-c367a2bf130e" obligation="informative"><title>Foreword</title><p id="_69914118-9b4c-4332-90fb-9596fedcf8f4">Individuals may use the contents of this document for the purposes of developing ISO standards and other documents.</p>
+	<p id="_e04c5b83-3eb7-4b22-8e13-6f90de652fc4">SC 4 standing documents specify procedures, methods, and guidelines for the development of SC 4 standards for industrial data. SC 4 standing documents, together with additional documents such as templates and checklists are available at <link target="https://isotc.iso.org/livelink/livelink?func=ll&amp;objId=11568437&amp;objAction=browse&amp;viewType=1">SC 4 Standing Documents Folder</link>.<fn reference="1"><p id="_411d77a3-1de6-45d2-9b3b-778662acfe55"><link target="https://isotc.iso.org/livelink/livelink?func=ll&amp;objId=11568437&amp;objAction=browse&amp;viewType=1"/></p></fn></p>
+	<p id="_e95e19c8-ced1-447e-8860-5016447ec16f">Major revisions</p>
+	<table id="_ed275a69-31ba-42a8-8477-8bc8b8f3c2fb" unnumbered="true">
+	<thead>
+(XML Line 000063): Table should have title
+	<table id="_ed275a69-31ba-42a8-8477-8bc8b8f3c2fb" unnumbered="true">
+	<thead>
+	<tr>
+	<th valign="top" align="left">Document</th>
+	<th valign="top" align="left">Date</th>
+(XML Line 000153): number not broken up in threes: 2018
+	<p id="_66db2239-e368-437a-9eec-bd12c5284d52">deletion of all the rules that are already provided by the ISO/IEC Directives, Part 2, 2018;</p>
+(XML Line 000167): Introduction may contain requirement: This document uses the following conventions to delineate text that is to be included in an SC 4 standard (boilerplate) from the rest of the text
+	<introduction id="introduction" obligation="informative"><title>Introduction</title><p id="_40eeebcf-fd96-4745-b7bb-87f6d9632537">This document specifies requirements for the editorial content, subdivisions, layout, and style for the standards developed by ISO/TC 184/SC 4.</p>
+	<p id="_dc4ae154-58c7-458d-9c8e-abac851c7eba">This document augments the 2018 edition of ISO/IEC Directives, Part 2 and does not provide the authority to contravene the requirements of that or any subsequent edition of those directives.</p>
+	<p id="_828032b5-5b10-461d-a9c5-5c488e381ad4">The content of this document is structured as follows:</p>
+	<ul id="_d9aa44ba-317f-4c4f-b153-a54f4f634ef4">
+	<li>
+(XML Line 000168): number not broken up in threes: 2018
+	<p id="_dc4ae154-58c7-458d-9c8e-abac851c7eba">This document augments the 2018 edition of ISO/IEC Directives, Part 2 and does not provide the authority to contravene the requirements of that or any subsequent edition of those directives.</p>
+(XML Line 000172): 'see cls_4' is pointing to a normative section
+	<xref target="cls_4"/>
+(XML Line 000175): 'see cls_5' is pointing to a normative section
+	<xref target="cls_5"/>
+(XML Line 000178): 'see cls_6' is pointing to a normative section
+	<xref target="cls_6"/>
+(XML Line 000181): 'see cls_7' is pointing to a normative section
+	<xref target="cls_7"/>
+(XML Line 000184): 'see cls_8' is pointing to a normative section
+	<xref target="cls_8"/>
+(XML Line 000187): 'see cls_9' is pointing to a normative section
+	<xref target="cls_9"/>
+(XML Line 000190): 'see cls_10' is pointing to a normative section
+	<xref target="cls_10"/>
+(XML Line 000197): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 000227): Scope may contain requirement: As Technical Reports are informative and cannot contain requirements, the required text has to be adapted as appropriate
+	<clause id="cls_1" type="scope" inline-header="false" obligation="normative"><title>Scope</title><p id="_39090d22-8867-426c-8490-947394aad574">This document specifies requirements for the editorial content, subdivisions, layout, and style for the standards developed by ISO/TC 184/SC 4. These standards include the following:</p>
+	<ul id="_5527052e-b964-404f-9802-e828de067a04">
+	<li>
+	<p id="_6bd5d9a4-012a-457d-b6a5-d2be84da329a">ISO 8000, <em>Data quality;</em></p>
+	</li>
+(XML Line 000248): number not broken up in threes: 17506
+	<p id="_76903351-5374-460a-b7c6-0dcca075fc2b">ISO/PAS 17506, <em>COLLADA digital asset schema specification for 3D visualization of industrial data;</em></p>
+(XML Line 000281): number not broken up in threes: 2018
+	<p id="_548fe7b3-38ad-4a0f-a6f5-07f917c5ac23">This document specifies the elements that make up SC 4 standards, identifies the location and mechanism for the wording to be used to prepare those elements, and sets out rules for the appearance of those elements when these have not already being defined in the ISO/IEC Directives, Part 2, 2018 or by any other SC 4 standing document.<note id="_37573a87-3922-483d-bf6c-67bd03ae9ae1">
+	<p id="_c8a1742e-814c-40c3-9891-14959481d307">In this document, “SC 4 standards” refers to any of the deliverables of SC 4 projects that are published by ISO. These include International Standards, Technical Specifications, Publicly Available Specifications, and Technical Reports. As Technical Reports are informative and cannot contain requirements, the required text has to be adapted as appropriate.</p>
+	</note></p>
+(XML Line 000282): Note may contain requirement: As Technical Reports are informative and cannot contain requirements, the required text has to be adapted as appropriate
+	<note id="_37573a87-3922-483d-bf6c-67bd03ae9ae1">
+	<p id="_c8a1742e-814c-40c3-9891-14959481d307">In this document, “SC 4 standards” refers to any of the deliverables of SC 4 projects that are published by ISO. These include International Standards, Technical Specifications, Publicly Available Specifications, and Technical Reports. As Technical Reports are informative and cannot contain requirements, the required text has to be adapted as appropriate.</p>
+	</note>
+(XML Line 000304): non-ISO/IEC reference not expected as normative:   2021-05-10  Principles and rules for the structure and drafting of ISO and IEC documents  https://www.iso.org/sites/directives/current/part2/index.xhtml  https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/4230456/ISO_IEC_Directives%2C_Part_2%2C_Principles_and_rules_for_the_structure_and_drafting_of_ISO_and_IEC_documents_-_2018_%288th_edition%29_-_PDF.pdf?nodeid=19685788&vernum=-2  ISO/IEC DIR 2 ISO      2018-01-01    8  en  Latn      2019                  International Organization for Standardization        ISO        www.iso.org            
+	<bibitem id="isodir2" type="international-standard">  <fetched>2021-05-10</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Principles and rules for the structure and drafting of ISO and IEC documents</title>  <uri type="src">https://www.iso.org/sites/directives/current/part2/index.xhtml</uri>  <uri type="obp">https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/4230456/ISO_IEC_Directives%2C_Part_2%2C_Principles_and_rules_for_the_structure_and_drafting_of_ISO_and_IEC_documents_-_2018_%288th_edition%29_-_PDF.pdf?nodeid=19685788&amp;vernum=-2</uri>  <docidentifier type="ISO">ISO/IEC DIR 2 ISO</docidentifier>  <date type="published">    <on>2018-01-01</on>  </date>  <edition>8</edition>  <language>en</language>  <script>Latn</script>  <copyright>    <from>2019</from>    <owner>      <organization>        <name>International Organization for Standardization</name>        <abbreviation>ISO</abbreviation>        <uri>www.iso.org</uri>      </organization>    </owner>  </copyright></bibitem>
+(XML Line 000304): non-ISO/IEC reference not expected as normative:   2021-05-10  Consolidated ISO Supplement — Procedures specific to ISO  https://www.iso.org/sites/directives/current/consolidated/index.xhtml  https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/4230452/ISO_IEC_Directives_Part_1_and_Consolidated_ISO_Supplement_%2D_2019_%2810th_Edition%29_%2D_PDF.pdf?nodeid=20447676&vernum=-2  ISO/IEC DIR 1 ISO SUP      2019-01-01    10  en  Latn      2019                  International Organization for Standardization        ISO        www.iso.org            
+	<bibitem id="isodir1" type="international-standard">  <fetched>2021-05-10</fetched>  <title type="title-main" format="text/plain" language="en" script="Latn">Consolidated ISO Supplement — Procedures specific to ISO</title>  <uri type="src">https://www.iso.org/sites/directives/current/consolidated/index.xhtml</uri>  <uri type="obp">https://isotc.iso.org/livelink/livelink/fetch/2000/2122/4230450/4230452/ISO_IEC_Directives_Part_1_and_Consolidated_ISO_Supplement_%2D_2019_%2810th_Edition%29_%2D_PDF.pdf?nodeid=20447676&amp;vernum=-2</uri>  <docidentifier type="ISO">ISO/IEC DIR 1 ISO SUP</docidentifier>  <date type="published">    <on>2019-01-01</on>  </date>  <edition>10</edition>  <language>en</language>  <script>Latn</script>  <copyright>    <from>2019</from>    <owner>      <organization>        <name>International Organization for Standardization</name>        <abbreviation>ISO</abbreviation>        <uri>www.iso.org</uri>      </organization>    </owner>  </copyright></bibitem>
+(XML Line 000305): Hanging paragraph in clause
+	<clause id="cls_3" inline-header="false" obligation="normative"><title>Terms, definitions and abbreviated terms.</title><clause id="scls_3-1" inline-header="false" obligation="normative"><title>Terms related to document type</title><clause id="_document" inline-header="false" obligation="normative"><title>document</title><p id="_1e0be7ec-926a-4cad-8da1-19123da7b30b">ISO or IEC standardization draft or publication</p>
+	<example id="_aa89ddaa-82c1-41f7-b349-e72520640d88">
+	<p id="_7f56d75e-cb71-40c8-a7d9-ce121e9cdb10"> (<strong>term “International Standard” not resolved</strong>),  (<strong>term “Technical Specification” not resolved</strong>),  (<strong>term “Publicly Available Specification” not resolved</strong>),  (<strong>term “Technical Report” not resolved</strong>) and  (<strong>term “Guide” not resolved</strong>).</p>
+	</example>
+	<termsource status="identical">
+(XML Line 000305): Hanging paragraph in clause
+	<clause id="scls_3-1" inline-header="false" obligation="normative"><title>Terms related to document type</title><clause id="_document" inline-header="false" obligation="normative"><title>document</title><p id="_1e0be7ec-926a-4cad-8da1-19123da7b30b">ISO or IEC standardization draft or publication</p>
+	<example id="_aa89ddaa-82c1-41f7-b349-e72520640d88">
+	<p id="_7f56d75e-cb71-40c8-a7d9-ce121e9cdb10"> (<strong>term “International Standard” not resolved</strong>),  (<strong>term “Technical Specification” not resolved</strong>),  (<strong>term “Publicly Available Specification” not resolved</strong>),  (<strong>term “Technical Report” not resolved</strong>) and  (<strong>term “Guide” not resolved</strong>).</p>
+	</example>
+	<termsource status="identical">
+(XML Line 000309): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000313): Note may contain recommendation: 
+Standards should be based on the consolidated results of science, technology and experience, and aimed at the promotion of optimum community benefits
+	<note id="_e84e8005-09d6-4403-a529-f32f3394950b">
+	<p id="_f8328b39-18d2-4f7e-96f1-76311dc48193">Standards should be based on the consolidated results of science, technology and experience, and aimed at the promotion of optimum community benefits.</p>
+	</note>
+(XML Line 000316): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isogui2" type="inline" citeas="ISO/IEC Guide 2"><localityStack><locality type="clause"><referenceFrom>3.2</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000320): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isogui2" type="inline" citeas="ISO/IEC Guide 2"><localityStack><locality type="clause"><referenceFrom>3.2.1.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000324): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.3</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000345): Note may contain permission: 
+The content of a Technical Specification, including its annexes, may include  (term “requirement” not resolved)
+	<note id="_e502a319-bb93-428a-9d69-22ca04f60a41">
+	<p id="_5d351dde-abff-450f-8a86-ef30271f0d89">The content of a Technical Specification, including its annexes, may include  (<strong>term “requirement” not resolved</strong>).</p>
+	</note>
+(XML Line 000348): Note may contain requirement: 
+A Technical Specification is not allowed to conflict with an existing International Standard
+	<note id="_d815196d-b881-47c5-893c-5a916f4f0fa7">
+	<p id="_d58dcf20-83b8-4c2a-9080-14adb4ccbbf8">A Technical Specification is not allowed to conflict with an existing International Standard.</p>
+	</note>
+(XML Line 000351): Note may contain permission: 
+Competing Technical Specifications on the same subject are permitted
+	<note id="_50dffd34-4167-4376-a6b9-4f303146012e">
+	<p id="_282b34c7-8ccd-4e1a-862f-58dee139fd02">Competing Technical Specifications on the same subject are permitted.</p>
+	</note>
+(XML Line 000357): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000372): Note may contain requirement: 
+A Publicly Available Specification is not allowed to conflict with an existing  (term “International Standard” not resolved)
+	<note id="_f9edac90-dab4-4405-b67f-514032bef1b9">
+	<p id="_1c508fe3-5708-4473-925f-c5e4211fc527">A Publicly Available Specification is not allowed to conflict with an existing  (<strong>term “International Standard” not resolved</strong>).</p>
+	</note>
+(XML Line 000375): Note may contain permission: 
+Competing Publicly Available Specifications on the same subject are permitted
+	<note id="_b0a81d53-9ff8-4750-bf78-cc2cbdc091f2">
+	<p id="_d4248f9e-44d3-47fa-a1b5-898d516c951d">Competing Publicly Available Specifications on the same subject are permitted.</p>
+	</note>
+(XML Line 000378): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.6</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000385): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.7</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000392): Note may contain permission: 
+Such data may include, for example, data obtained from a survey carried out among the national bodies, data on work in other international organizations or data on the “state of the art” in relation to standards of national bodies on a particular subject
+	<note id="_449cd532-17e5-416b-b1ce-d736c6f0dade">
+	<p id="_c71ad620-9956-4389-bdc0-0794609625fa">Such data may include, for example, data obtained from a survey carried out among the national bodies, data on work in other international organizations or data on the “state of the art” in relation to standards of national bodies on a particular subject.</p>
+	</note>
+(XML Line 000398): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.1.8</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000401): Hanging paragraph in clause
+	<clause id="scls_3-2" inline-header="false" obligation="normative"><title>Terms related to elements of a document</title><clause id="_normative_element" inline-header="false" obligation="normative"><title>normative element</title><p id="_41c261e2-f4c1-4e6d-a2e3-df7f96a813a5">element that describes the scope of the  (<strong>term “document” not resolved</strong>) or sets out  (<strong>term “provision” not resolved</strong>)</p>
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.1</referenceFrom></locality></localityStack></origin>
+	</termsource></clause>
+	<clause id="_informative_element" inline-header="false" obligation="normative"><title>informative element</title><p id="_0c19c520-8848-45d5-a889-24d67a4ba45b">element intended to assist the understanding or use of the  (<strong>term “document” not resolved</strong>) or that provides contextual information about its content, background or relationship with other documents</p>
+(XML Line 000402): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.1</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000406): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.2</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000413): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.3</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000420): possible decimal point: 3.2
+	<termsource status="identical">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.4</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000424): possible decimal point: 3.2
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.2.5</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_a7351c1b-d86c-494f-9a27-2cdf8247febd">modified, EXAMPLE removed</p>
+	</modification>
+(XML Line 000430): Hanging paragraph in clause
+	<clause id="scls_3-3" inline-header="false" obligation="normative"><title>Terms related to provisions</title><clause id="_provision" inline-header="false" obligation="normative"><title>provision</title><p id="_35b67c6e-ce54-4b26-914a-85eb04f0328c">expression in the content of a normative  (<strong>term “document” not resolved</strong>) that takes the form of a  (<strong>term “statement” not resolved</strong>), an instruction, a  (<strong>term “recommendation” not resolved</strong>) or a  (<strong>term “requirement” not resolved</strong>)<note id="_e62e8c81-dbd8-4553-a044-e03cb497e597">
+	<p id="_997acec3-33e1-4b48-bc2a-d7e74a3df5d5">These forms of provision are distinguished by the form of wording they employ; e.g. instructions are expressed in the imperative mood, recommendations by the use of the auxiliary “should” and requirements by the use of the auxiliary “shall”.</p>
+	</note></p>
+	
+	<termsource status="identical">
+(XML Line 000431): Note may contain requirement: instructions are expressed in the imperative mood, recommendations by the use of the auxiliary “should” and requirements by the use of the auxiliary “shall”
+	<note id="_e62e8c81-dbd8-4553-a044-e03cb497e597">
+	<p id="_997acec3-33e1-4b48-bc2a-d7e74a3df5d5">These forms of provision are distinguished by the form of wording they employ; e.g. instructions are expressed in the imperative mood, recommendations by the use of the auxiliary “should” and requirements by the use of the auxiliary “shall”.</p>
+	</note>
+(XML Line 000431): Note may contain recommendation: instructions are expressed in the imperative mood, recommendations by the use of the auxiliary “should” and requirements by the use of the auxiliary “shall”
+	<note id="_e62e8c81-dbd8-4553-a044-e03cb497e597">
+	<p id="_997acec3-33e1-4b48-bc2a-d7e74a3df5d5">These forms of provision are distinguished by the form of wording they employ; e.g. instructions are expressed in the imperative mood, recommendations by the use of the auxiliary “should” and requirements by the use of the auxiliary “shall”.</p>
+	</note>
+(XML Line 000434): possible decimal point: 7.1
+	<termsource status="identical">
+	<origin bibitemid="isogui2" type="inline" citeas="ISO/IEC Guide 2"><localityStack><locality type="clause"><referenceFrom>7.1 (2)</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000437): number not broken up in threes: 2018
+	<p id="_beef33a8-fd74-456d-8d56-c3a790b99bc5">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys information<note id="_4da8c107-2382-4f36-8460-0dde47eff00c">
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+	</note></p>
+(XML Line 000437): number not broken up in threes: 2018
+	<p id="_beef33a8-fd74-456d-8d56-c3a790b99bc5">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys information<note id="_4da8c107-2382-4f36-8460-0dde47eff00c">
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+	</note></p>
+(XML Line 000438): number not broken up in threes: 2018
+	<note id="_4da8c107-2382-4f36-8460-0dde47eff00c">
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+	</note>
+(XML Line 000438): number not broken up in threes: 2018
+	<note id="_4da8c107-2382-4f36-8460-0dde47eff00c">
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+	</note>
+(XML Line 000439): number not broken up in threes: 2018
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+(XML Line 000439): number not broken up in threes: 2018
+	<p id="_4e8650d9-8047-4cb2-a273-0fe43023bfb4">Table 5 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms for indicating a course of action permissible within the limits of the document. Table 6 of ISO/IEC Directives, Part 2, 2018 specifies the verbal forms to be used for statements of  (<strong>term “possibility” not resolved</strong>) and  (<strong>term “capability” not resolved</strong>).</p>
+(XML Line 000441): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.2</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_a1d1ffa6-d167-4934-ace6-bed400675057">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000448): number not broken up in threes: 2018
+	<p id="_a6a7ed1a-0a99-4ee6-9538-54d85af8e951">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys objectively verifiable criteria to be fulfilled and from which no deviation is permitted if conformance with the document is to be claimed<note id="_396c131b-d22c-4b1b-a4ea-b4a1a846ad94">
+	<p id="_c85fb1b3-58b8-42e6-9df0-5caf7d90209a">Modified, Requirements are expressed using the verbal forms specified in Table 3 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note></p>
+(XML Line 000449): number not broken up in threes: 2018
+	<note id="_396c131b-d22c-4b1b-a4ea-b4a1a846ad94">
+	<p id="_c85fb1b3-58b8-42e6-9df0-5caf7d90209a">Modified, Requirements are expressed using the verbal forms specified in Table 3 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000450): number not broken up in threes: 2018
+	<p id="_c85fb1b3-58b8-42e6-9df0-5caf7d90209a">Modified, Requirements are expressed using the verbal forms specified in Table 3 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000452): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.3</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_1605f1d2-e054-4f7a-9345-7425c6268c5b">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000459): number not broken up in threes: 2018
+	<p id="_4fbaa085-f7aa-4169-9e09-08c20c4d453b">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys a suggested possible choice or course of action deemed to be particularly suitable without necessarily mentioning or excluding others<note id="_eba2083c-7ed0-4484-8dba-35d0ddddbffe">
+	<p id="_1cfc7059-726b-4254-9615-96d9ab6e9029">Recommendations are expressed using the verbal forms specified in Table 4 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note><note id="_e2d2e609-a6e7-4724-b3dc-16994936e9bb">
+	<p id="_7ca7387e-7190-4dff-82e1-5d2d0101771f">In the negative form, a recommendation is the expression that a suggested possible choice or course of action is not preferred but it is not prohibited.</p>
+	</note></p>
+(XML Line 000460): number not broken up in threes: 2018
+	<note id="_eba2083c-7ed0-4484-8dba-35d0ddddbffe">
+	<p id="_1cfc7059-726b-4254-9615-96d9ab6e9029">Recommendations are expressed using the verbal forms specified in Table 4 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000461): number not broken up in threes: 2018
+	<p id="_1cfc7059-726b-4254-9615-96d9ab6e9029">Recommendations are expressed using the verbal forms specified in Table 4 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000466): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.4</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_ac23a3a7-71c6-4ed3-8f06-62a6fffd92a5">modified, “of ISO/IEC Directives, Part 2, 2018” added to Note 1 to entry.</p>
+	</modification>
+(XML Line 000472): number not broken up in threes: 2018
+	<p id="_b1aa3f1e-29ce-4587-9f3c-51c72d7001e7">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys consent or liberty (or opportunity) to do something<note id="_572877ac-0984-4d6d-a090-18c27d8188db">
+	<p id="_733a41e8-db7f-40c0-aca7-dfe25624e5ef">Permissions are expressed using the verbal forms specified in Table 5 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note></p>
+(XML Line 000473): number not broken up in threes: 2018
+	<note id="_572877ac-0984-4d6d-a090-18c27d8188db">
+	<p id="_733a41e8-db7f-40c0-aca7-dfe25624e5ef">Permissions are expressed using the verbal forms specified in Table 5 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000474): number not broken up in threes: 2018
+	<p id="_733a41e8-db7f-40c0-aca7-dfe25624e5ef">Permissions are expressed using the verbal forms specified in Table 5 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000476): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.5</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_0a47db77-a566-4a20-86da-87df82810438">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000483): number not broken up in threes: 2018
+	<p id="_00023240-f85d-426e-8566-84b2670a7e08">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys expected or conceivable material, physical or causal outcome<note id="_6e22dac6-eb1b-4fcc-88a3-4756b340ef1b">
+	<p id="_64657218-8373-4097-8a1b-0b0ad5de42e2">Possibility is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note></p>
+(XML Line 000484): number not broken up in threes: 2018
+	<note id="_6e22dac6-eb1b-4fcc-88a3-4756b340ef1b">
+	<p id="_64657218-8373-4097-8a1b-0b0ad5de42e2">Possibility is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000485): number not broken up in threes: 2018
+	<p id="_64657218-8373-4097-8a1b-0b0ad5de42e2">Possibility is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000487): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.6</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_90b3b6c5-00b9-4c22-bd0f-f1e0a4ef1364">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000494): number not broken up in threes: 2018
+	<p id="_a2dad240-3a3a-4c09-bab6-d01dbff7d352">expression, in the content of a  (<strong>term “document” not resolved</strong>), that conveys the ability, fitness, or quality necessary to do or achieve a specified thing<note id="_b646451c-57aa-40cd-8281-92a722e990d0">
+	<p id="_4cd21264-913e-490d-8341-baa82c977d1c">Capability is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note></p>
+(XML Line 000495): number not broken up in threes: 2018
+	<note id="_b646451c-57aa-40cd-8281-92a722e990d0">
+	<p id="_4cd21264-913e-490d-8341-baa82c977d1c">Capability is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000496): number not broken up in threes: 2018
+	<p id="_4cd21264-913e-490d-8341-baa82c977d1c">Capability is expressed using the verbal forms specified in Table 6 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000498): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.7</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_fb7aff75-fdbe-47fb-bdd7-bcb844227b5e">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000505): number not broken up in threes: 2018
+	<p id="_f8287c35-3419-4fea-be7f-6cf06ddc8649">constraint or obligation on the user of the  (<strong>term “document” not resolved</strong>) (e.g. laws of nature or particular conditions existing in some countries or regions) that is not stated as a  (<strong>term “provision” not resolved</strong>) of the document<note id="_f5aabae0-8b4d-45ad-8209-07179b0eb3b2">
+	<p id="_007cd3d2-cded-45e2-9ed9-076c81428042">External constraints are referred to using the verbal form specified in Table 7 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note><note id="_241591d6-0d0b-4a00-9cb8-a972995ea0d3">
+	<p id="_ebc8712b-e11e-493f-b844-1a0fd4824ff7">Use of the word “must” does not imply that the external constraint referred to is a  (<strong>term “requirement” not resolved</strong>) of the document.</p>
+	</note></p>
+(XML Line 000506): number not broken up in threes: 2018
+	<note id="_f5aabae0-8b4d-45ad-8209-07179b0eb3b2">
+	<p id="_007cd3d2-cded-45e2-9ed9-076c81428042">External constraints are referred to using the verbal form specified in Table 7 of ISO/IEC Directives, Part 2, 2018.</p>
+	</note>
+(XML Line 000507): number not broken up in threes: 2018
+	<p id="_007cd3d2-cded-45e2-9ed9-076c81428042">External constraints are referred to using the verbal form specified in Table 7 of ISO/IEC Directives, Part 2, 2018.</p>
+(XML Line 000512): possible decimal point: 3.3
+	<termsource status="modified">
+	<origin bibitemid="isodir2" type="inline" citeas="ISO/IEC DIR 2 ISO"><localityStack><locality type="clause"><referenceFrom>3.3.8</referenceFrom></locality></localityStack></origin>
+	<modification>
+	<p id="_ef6e734b-93c6-4252-bf24-48ccccc42d39">modified, “of ISO/IEC Directives, Part 2, 2018” added
+	to Note 1 to entry.</p>
+(XML Line 000519): Hanging paragraph in clause
+	<clause id="scls_3-4" inline-header="false" obligation="normative"><title>Terms related to SC 4 standards</title><clause id="_application" inline-header="false" obligation="normative"><title>application</title><p id="_97d3a9e2-164f-46b2-844b-65676a81066a">one or more processes creating or using product data</p>
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
+	</termsource></clause>
+	<clause id="_application_interpreted_construct" inline-header="false" obligation="normative"><title>application interpreted construct</title>
+(XML Line 000520): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.5</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000527): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.9</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000534): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.11</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000544): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.17</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000551): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.18</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000555): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.19</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000565): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.22</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000569): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.25</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000573): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.29</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000577): Note may contain permission: 
+A declaration identifier may be one term or may consist of a sequence of terms
+	<note id="_395a8141-55c7-4e7b-b494-a172082c5491">
+	<p id="_ebd0466f-f4a2-49ff-96a8-0e0b8b3b64f6">A declaration identifier may be one term or may consist of a sequence of terms.</p>
+	</note>
+(XML Line 000580): Note may contain permission: 
+Breaks in the sequence may be identified by a change in case or by an explicit character, such as underscore or dash
+	<note id="_45a59855-b3da-4ea5-bdfa-11159a638410">
+	<p id="_4c0ce1f2-f64f-4f06-8070-63bf40662225">Breaks in the sequence may be identified by a change in case or by an explicit character, such as underscore or dash.</p>
+	</note>
+(XML Line 000587): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.38</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000591): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.41</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000604): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.42</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000620): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.43</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000627): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.42</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000638): Note may contain requirement: 
+The term common resources is not meant to imply that all such information models are required to be to be used in a module interpreted model regardless of domain or application
+	<note id="_c7be1260-1d50-4f42-876d-56227c65edf7">
+	<p id="_04e1d710-1617-4877-b722-d360eae65fa9">The term common resources is not meant to imply that all such information models are required to be to be used in a module interpreted model regardless of domain or application.</p>
+	</note>
+(XML Line 000644): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.45</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000648): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.49</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000652): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.50</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000656): possible decimal point: 3.1
+	<termsource status="identical">
+	<origin bibitemid="iso10303" type="inline" citeas="ISO 10303-1"><localityStack><locality type="clause"><referenceFrom>3.1.55</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000660): possible decimal point: 4.28
+	<termsource status="identical">
+	<origin bibitemid="iso11179" type="inline" citeas="ISO/IEC 11179-5:2015"><localityStack><locality type="clause"><referenceFrom>4.28</referenceFrom></locality></localityStack></origin>
+	</termsource>
+(XML Line 000664): Note may contain requirement: This specification shall refer to this EXPRESS model portion of the repository’s XML vocabulary as STEPmod EXPRESS
+	<note id="_6807ec17-bf0e-4f60-afcd-f4e694fe7f7e">
+	<p id="_52488782-5bce-4d78-a9fe-9ea8ecc211d7">An integral part of the repository’s XML vocabulary is its representation of EXPRESS language constructs, i.e. its EXPRESS model. This specification shall refer to this EXPRESS model portion of the repository’s XML vocabulary as STEPmod EXPRESS. The STEPmod Specification Reference is available at <link target="http://stepmod.sourceforge.net/express_model_spec/"/></p>
+	</note>
+(XML Line 000689): Only one Symbols and Abbreviated Terms section in the standard
+	<definitions id="scls_3-5" type="abbreviated_terms" obligation="normative">
+	<title>Abbreviated terms</title>
+	<dl id="_a65a6584-ed82-4f8e-9acc-32400b1d3f72"><dt>AIC</dt><dd>
+	<p id="_733b2178-4021-46c3-8fbc-7e8c222aa87f">application interpreted construct (see <xref target="term-application-interpreted-construct"/>)</p>
+	</dd>
+(XML Line 000689): Symbols and Abbreviated Terms can only contain a definition list
+	<definitions id="scls_3-5" type="abbreviated_terms" obligation="normative">
+	<title>Abbreviated terms</title>
+	<dl id="_a65a6584-ed82-4f8e-9acc-32400b1d3f72"><dt>AIC</dt><dd>
+	<p id="_733b2178-4021-46c3-8fbc-7e8c222aa87f">application interpreted construct (see <xref target="term-application-interpreted-construct"/>)</p>
+	</dd>
+(XML Line 000817): 'see fig2' is pointing to a normative section
+	<xref target="fig2"/>
+(XML Line 000843): Hanging paragraph in clause
+	<clause id="cls_5" inline-header="false" obligation="normative"><title>Requirements for the structure and content of parts of SC 4 standards</title><clause id="scls_5-1" inline-header="false" obligation="normative"><title>General</title><p id="_9fcca9c4-6d99-4d64-aaca-06ff9765d4e9">For all the standards of the ISO/TC 184/SC 4 subcommittee the following documents provide applicable requirements:</p>
+	<ul id="_45e9dd81-c670-477d-b82f-d22118bb6739">
+	<li>
+	<p id="_be87faac-f405-40bb-81cb-b3f82f7136e8">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+	</li>
+(XML Line 000846): number not broken up in threes: 2018
+	<p id="_be87faac-f405-40bb-81cb-b3f82f7136e8">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+(XML Line 000864): number not broken up in threes: 2018
+	<p id="_7ea6024a-382e-4c9c-8da8-f516d6e899a4">The internal review checklist is used by a member of the project team (preferably not the project leader or the project editor) to check the document against the detailed requirements that apply to it. These requirements include those specified in the ISO/IEC Directives, Part 2, 2018, those specified in this document, and if any, those specified in any SC 4 standing document applicable to a series (e.g. ISO 10303).</p>
+(XML Line 000900): Hanging paragraph in clause
+	<clause id="scls_5-4" inline-header="false" obligation="normative"><title>SC 4 exceptions</title><clause id="scls_5-4-1" inline-header="false" obligation="normative"><title>Subdivision of the subject matter within an individual document</title><p id="_ef344016-dc84-46f0-b371-068b8931efbd"><xref target="table1"/> lists the elements that comprise the content of SC 4 standards. The bolded elements differ from the ISO/IEC Directives, Part 2, 2018; the introduction is a mandatory element for all the SC 4 standards and an index is provided as appropriate.</p>
+	<p id="_e21891c9-e115-4df8-93f9-f807f901b7b9">For non-HTML documents, the final cover page is generated by the ISO Central Secretariat.</p>
+	<table id="table1">
+	<name>Overview of the major subdivisions of a document and their arrangement in the</name>
+	<tbody>
+(XML Line 000900): number not broken up in threes: 2018
+	<p id="_ef344016-dc84-46f0-b371-068b8931efbd"><xref target="table1"/> lists the elements that comprise the content of SC 4 standards. The bolded elements differ from the ISO/IEC Directives, Part 2, 2018; the introduction is a mandatory element for all the SC 4 standards and an index is provided as appropriate.</p>
+(XML Line 000960): Note may contain recommendation: National bodies wishing to translate SC 4 standards into other languages for publication should base the translation on the corrected proof of the English language edition
+	<note id="_f57a400f-7e99-4f4c-8f4e-ef6b1c07818d">
+	<p id="_ebdd5ee6-bd29-440a-a617-886066ab2063">Translation of SC 4 standards into other languages is not recommended. National bodies wishing to translate SC 4 standards into other languages for publication should base the translation on the corrected proof of the English language edition.</p>
+	</note>
+(XML Line 000968): 'see scls_8-2-6' is pointing to a normative section
+	<xref target="scls_8-2-6"/>
+(XML Line 000975): Hanging paragraph in clause
+	<clause id="scls_5-4-4" inline-header="false" obligation="normative"><title>Use of ASN.1 Identifiers in SC 4 standards (optional)</title><clause id="scls_5-4-4-1" inline-header="false" obligation="normative"><title>Information object registration annex</title><p id="_732042fd-56c7-48d3-a5bc-f745186fa25f">Some SC 4 standards can have an “Information object registration annex”. This annex defines the information object identifier for the standard as specified by ISO/IEC 8824-1 <eref type="inline" bibitemid="iso8824" citeas="ISO/IEC 8824-1"/>. As a consequence, the SC 4 standard shall specify a reference to ISO/IEC 8824-1.</p>
+	<p id="_e930ffd3-8f65-4ce4-9b64-d3dee35768e7">The status of the annex, in which the information object registration is specified, varies according to its referencing within the text.</p>
+	<p id="_b8543503-a4db-4055-99e3-c6b125ee89ad">The structure of the annex, in which the information object registration is specified, varies according to the nature of the standard.<note id="_f2830f46-a76e-4536-9428-b393e47af803">
+	<p id="_98454901-df6f-437d-863b-c638b38daed2">In ISO 10303 this annex is the last normative annex.</p>
+	</note></p>
+(XML Line 000984): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 001007): number not broken up in threes: 2018
+	<p id="_35bd5e1b-0b2b-4fbb-9024-03f9cd1dd771">Rules for alphabetical ordering are found in the ISO/IEC Directives, Part 2, 2018 in the Clause 17, Symbols and abbreviated terms.</p>
+(XML Line 001011): Note may contain requirement: 
+This is to ensure different types of concatenation result in the same order when computer sorted
+	<note id="_f72a4262-b207-4482-a6b5-59050db30429">
+	<p id="_6f5c605a-5fed-45f3-a1ec-90dbd4bdb1b9">This is to ensure different types of concatenation result in the same order when computer sorted.</p>
+	</note>
+(XML Line 001020): Hanging paragraph in clause
+	<clause id="scls_5-5" inline-header="false" obligation="normative"><title>Other topics of importance to SC 4 standards</title><clause id="scls_5-5-1" inline-header="false" obligation="normative"><title>ISO deliverables numbering</title><p id="_daf6feea-e453-42e8-9ac2-16b9d2fb7066">ISO/IEC Directives, Part 1define document numbering at different stages.</p>
+	<p id="_d7925d8e-c9fe-43e8-a3b0-b17ba86f180d">The <xref target="table2"/> below gives examples of numbering of documents at different stages.</p>
+	<table id="table2">
+	<name>Example of numbering of documents</name>
+	<tbody>
+(XML Line 001049): number not broken up in threes: 10645
+	<td valign="top" align="left">ISO/CD TR 10645</td>
+(XML Line 001069): number not broken up in threes: 24019
+	<td valign="top" align="left">ISO/PAS 24019:2002(E)</td>
+(XML Line 001074): number not broken up in threes: 2020
+	<note id="_c9f4da5e-438a-4343-9e0d-319c436a7ac4">
+	<p id="_fdc542db-c680-4834-bfda-fdb10d310c99">The complete matrix presentation of project stages is available in the ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex SD</p>
+	</note>
+(XML Line 001075): number not broken up in threes: 2020
+	<p id="_fdc542db-c680-4834-bfda-fdb10d310c99">The complete matrix presentation of project stages is available in the ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex SD</p>
+(XML Line 001077): number not broken up in threes: 2020
+	<note id="_ed565006-b493-49d5-a0f2-69791acf97af">
+	<p id="_81e22180-1ca3-40c3-95f9-821aff438dae">For more information on the numbering of documents, please refer to ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex SE</p>
+	</note>
+(XML Line 001078): number not broken up in threes: 2020
+	<p id="_81e22180-1ca3-40c3-95f9-821aff438dae">For more information on the numbering of documents, please refer to ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex SE</p>
+(XML Line 001080): number not broken up in threes: 2020
+	<note id="_491e2a28-fc69-4398-9d01-b697ad6fce7e">
+	<p id="_423fefb6-878b-495e-9660-0042d2929dd5">The complete matrix presentation of project simplified diagram of options is available in the ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex F</p>
+	</note>
+(XML Line 001081): number not broken up in threes: 2020
+	<p id="_423fefb6-878b-495e-9660-0042d2929dd5">The complete matrix presentation of project simplified diagram of options is available in the ISO/IEC Directives, Part 1, Consolidated ISO Supplement, 2020, Annex F</p>
+(XML Line 001093): number not broken up in threes: 3554
+	<example id="_e4dc0abb-4c3f-4bbb-b1a5-8bd4e38bc41d">
+	<p id="_321da61d-b937-4332-8d66-0dea814e4831">The N-number of this document is: ISO/TC 184/SC 4 N3554 (where 3554 is the latest number of the document).</p>
+	</example>
+(XML Line 001094): number not broken up in threes: 3554
+	<p id="_321da61d-b937-4332-8d66-0dea814e4831">The N-number of this document is: ISO/TC 184/SC 4 N3554 (where 3554 is the latest number of the document).</p>
+(XML Line 001108): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>30</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>30</referenceFrom>
+	    </locality>
+(XML Line 001108): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>30</referenceFrom>
+	    </locality>
+(XML Line 001112): number not broken up in threes: 2018
+	<p id="_b381a8ab-eaf9-4b7f-9e04-f02497f9f290">The scope clause should be less than one page long.<note id="_e390c2d9-2173-4b23-be87-dee23e06ab04">
+	<p id="_c69e5429-e471-4326-9434-f9b3b1d2e5ed">Scope is covered by the ISO/IEC Directives, Part 2, 2018, clause 14</p>
+	</note></p>
+(XML Line 001113): number not broken up in threes: 2018
+	<note id="_e390c2d9-2173-4b23-be87-dee23e06ab04">
+	<p id="_c69e5429-e471-4326-9434-f9b3b1d2e5ed">Scope is covered by the ISO/IEC Directives, Part 2, 2018, clause 14</p>
+	</note>
+(XML Line 001114): number not broken up in threes: 2018
+	<p id="_c69e5429-e471-4326-9434-f9b3b1d2e5ed">Scope is covered by the ISO/IEC Directives, Part 2, 2018, clause 14</p>
+(XML Line 001116): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 001154): Hanging paragraph in clause
+	<clause id="scls_5-5-5" inline-header="false" obligation="normative"><title>Terms and definitions clause</title><clause id="scls_5-5-5-1" inline-header="false" obligation="normative">
+	<title>General</title>
+	<p id="_461fa6a9-dc5c-49b5-abd8-4fd9e1f75e8b">Definitions of terms are required to conform to the provisions of the ISO/IEC Directives, Part 2, 2018, clause 16 and of ISO 10241-1:2011 <eref type="inline" bibitemid="iso10241" citeas="ISO 10241-1:2011"/>. Additional recommended practices from <em>A Concise Introduction to Logic</em> by Patrick J. Hurley <eref type="inline" bibitemid="hurley" citeas="[17]"/> are given in <xref target="annexB"/> of this document.</p>
+	</clause>
+	<clause id="scls_5-5-5-2" inline-header="false" obligation="normative"><title>Note to a terminological entry</title><p id="_e1c4b97b-7282-4ad3-b57f-3dd844efd465">A note to a terminological entry (referred to as “Note # to entry”) follows different rules from a note (“NOTE #”) integrated in the text. It provides additional information that supplements the terminological data, such as:</p>
+(XML Line 001156): number not broken up in threes: 2018
+	<p id="_461fa6a9-dc5c-49b5-abd8-4fd9e1f75e8b">Definitions of terms are required to conform to the provisions of the ISO/IEC Directives, Part 2, 2018, clause 16 and of ISO 10241-1:2011 <eref type="inline" bibitemid="iso10241" citeas="ISO 10241-1:2011"/>. Additional recommended practices from <em>A Concise Introduction to Logic</em> by Patrick J. Hurley <eref type="inline" bibitemid="hurley" citeas="[17]"/> are given in <xref target="annexB"/> of this document.</p>
+(XML Line 001172): possible decimal point: 3.3
+	<example id="_d4c5b06b-344d-43a1-ab09-cbaaa6b7b313"><sourcecode id="_ca0197b7-38b0-4f10-ae03-79c395150ef4" unnumbered="true">data element
+	unit of data that is considered in context to be indivisible
+	[SOURCE: ISO/IEC 11179-1:2015, 3.3.8]</sourcecode>
+	</example>
+(XML Line 001180): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 001195): 'see scls_3-5' is pointing to a normative section
+	<xref target="scls_3-5"/>
+(XML Line 001205): number not broken up in threes: 2018
+	<p id="_eec25fa7-d38c-4f20-88d2-c1ea300d39bb">In addition to the ISO/IEC Directives, Part 2, 2018, 22.4, use “Clause” only to refer to an entire clause. Do not use the words “subclause” or “reference”. Use the following forms:</p>
+(XML Line 001205): possible decimal point: 22.4
+	<p id="_eec25fa7-d38c-4f20-88d2-c1ea300d39bb">In addition to the ISO/IEC Directives, Part 2, 2018, 22.4, use “Clause” only to refer to an entire clause. Do not use the words “subclause” or “reference”. Use the following forms:</p>
+(XML Line 001211): possible decimal point: 3.1
+	<p id="_9ee31001-d795-41b6-a30d-157f7a3d3ded">“according to 3.1”;</p>
+(XML Line 001214): possible decimal point: 3.1
+	<p id="_125ae1d3-3d7e-4009-8eb8-3e3cfb0b9132">“details as given in 3.1.1”;</p>
+(XML Line 001217): possible decimal point: 3.1
+	<p id="_197c18fb-5a59-45c1-a758-88eaf19284c8">“(see 3.1.1)”;</p>
+(XML Line 001220): possible decimal point: 3.1
+	<p id="_58ffc9a0-eba5-4a36-a13c-9f912281bdb7">“as described in 3.1.2”;</p>
+(XML Line 001240): 'see scls_5-2' is pointing to a normative section
+	<xref target="scls_5-2"/>
+(XML Line 001242): Hanging paragraph in clause
+	<clause id="cls_6" inline-header="false" obligation="normative"><title>EXPRESS presentation style</title><clause id="scls_6-1" inline-header="false" obligation="normative"><title>General</title><p id="_ddda8241-d762-452d-83f1-bac16ae40c14">This clause gives rules and guidelines specific to documenting EXPRESS. The subjects covered are as follows.</p>
+	<ul id="_d9a8a62a-5465-4e92-ba1f-cf30b133444c">
+	<li>
+	<p id="_956473e0-6a36-47f2-8165-82827952f390">Layout: explains how to use indentation, blank lines, and other white space to produce a consistent layout (see <xref target="scls_6-2"/>).</p>
+	</li>
+(XML Line 001245): 'see scls_6-2' is pointing to a normative section
+	<xref target="scls_6-2"/>
+(XML Line 001248): 'see scls_6-3' is pointing to a normative section
+	<xref target="scls_6-3"/>
+(XML Line 001251): 'see scls_6-4' is pointing to a normative section
+	<xref target="scls_6-4"/>
+(XML Line 001254): 'see scls_6-5' is pointing to a normative section
+	<xref target="scls_6-5"/>
+(XML Line 001257): 'see scls_6-6' is pointing to a normative section
+	<xref target="scls_6-6"/>
+(XML Line 001265): 'see scls_6-7' is pointing to a normative section
+	<xref target="scls_6-7"/>
+(XML Line 001268): 'see scls_6-8' is pointing to a normative section
+	<xref target="scls_6-8"/>
+(XML Line 001282): Hanging paragraph in clause
+	<clause id="scls_6-2" inline-header="false" obligation="normative"><title>Layout rules</title><p id="_6cf6833d-92ad-465d-abaa-2ae33fe50d21">The layout rules explain how to use white space to produce a schema that has a uniform appearance. A uniform appearance helps the reader to find and use the material of interest.</p>
+	<p id="_b8cb25ef-d603-441c-9558-e1c6500e6f8a">To prevent unusual spacing, use left justification for EXPRESS language statements, not full justification.</p>
+	<p id="_937e4f4c-5b3b-4fb7-9503-0e65bac96401">Because of the variability of the size of EXPRESS declarations, no hard rule can be given for the number of lines to force on one page. Do not insert extra page breaks.</p>
+	<clause id="scls_6-2-1" inline-header="false" obligation="normative"><title>Organization of the schema elements</title><p id="_26bb26b1-dfb2-48ab-89a7-aba61f5dc6e6">Schema elements shall be written in the order specified in <xref target="table3"/>. None of these elements are mandatory; only include these elements as needed (see also <xref target="scls_6-7"/>).</p>
+	<table id="table3">
+(XML Line 001369): Note may contain permission: 
+This implies that to process the complete document as EXPRESS, it may be necessary to add one opening marker at the beginning of the document and one closing marker at the end of the document
+	<note id="_ecedd8f5-f4e9-4340-834a-f2018ced2d21">
+	<p id="_13ea06df-79a6-42b8-9848-84ee27aa67d9">This implies that to process the complete document as EXPRESS, it may be necessary to add one opening marker at the beginning of the document and one closing marker at the end of the document.</p>
+	</note>
+(XML Line 001405): number not broken up in threes: 10303
+	<example id="_5c9378c6-ed40-4f6e-8e1e-2af6e3f5be72"><p id="_d3376732-45b0-489b-a4fb-d4f94fd68a6a">The following examples illustrates the layout of <strong>USE FROM</strong> interface statements:</p>
+	<sourcecode id="_79276670-b29b-4abf-84e8-264f46ea7df2" unnumbered="true">SCHEMA schema3 ’iso standard 10303 part(nn) version(yy)
+	object(1)geometric_model_schema(3)’;
+	USE FROM schema1 -- ISO 10303-42 schema1 version 10
+	   (entity1,
+(XML Line 001428): possible decimal point: 0.0
+	<example id="_b4c3f310-61bd-41ea-aa13-5d78cc167aa1"><p id="_7e07d9fb-07ff-4c81-bf98-f082cae61919">The following example illustrates the layout of constraint declarations:</p>
+	<sourcecode id="_cd410ed3-c061-43b2-9f06-3f6dd6137ee1" unnumbered="true">CONSTANT
+	   schema_prefix         : STRING       := ’MATH_FUNCTIONS_SCHEMA.’;
+	   the_integers          : e_space      := mk_e_space(es_integers);
+	   the_reals             : e_space      := mk_e_space(es_reals);
+(XML Line 001509): Hanging paragraph in clause
+	<clause id="scls_6-2-11" inline-header="false" obligation="normative"><title>Algorithm layout</title><clause id="scls_6-2-11-1" inline-header="false" obligation="normative"><title>FUNCTION</title><p id="_089d806d-5b9a-4d8a-8b44-d95c40d0eebd">The <strong>FUNCTION</strong> and <strong>END FUNCTION</strong> keywords are on separate lines and aligned with the left margin. Immediately, following the <strong>FUNCTION</strong> keyword is a space followed by the name of the function.</p>
+	<p id="_6feed2bf-778b-47ed-be97-64cbfd0854c1">Immediately after the function name, without a space, is the open parenthesis that marks the beginning of the formal parameters. Each parameter is written on a line by itself with the first one being written on the same line as the open parenthesis with no space between it and the parenthesis.</p>
+	<p id="_5d4b93f8-df0b-4f05-86b5-f4f4a65d9639">A semicolon separates each of the formal parameters and is flush against the parameter that it comes after.</p>
+	<p id="_081d592a-d771-4a5a-b9cc-a7c8b15dc961">After the final formal parameter, is a close parenthesis followed by a colon and then the type for the value that is returned from the function. The colon should have at least one space before and after it. After the return type is a semicolon which marks the end of the function header.</p>
+	<p id="_84f828ff-f40e-4f64-a16b-f0c01dfe1f57">If there are any local <strong>ENTITY</strong>, <strong>SUBTYPE CONSTRAINT</strong>, <strong>FUNCTION</strong>, <strong>RULE</strong>, <strong>PROCEDURE</strong>, or <strong>TYPE</strong> declarations, they are written next, indented two characters to the right of the left margin.</p>
+(XML Line 001543): possible decimal point: 3.1415926
+	<example id="_062d3c7d-d417-435a-8f01-8b16ceae8c99"><p id="_d3695ce8-9ce9-468a-abc5-9cab85e4010c">The following is an example of rule declaration:</p>
+	<sourcecode id="_5de7d89c-3569-44ac-870b-229006fec732" unnumbered="true">RULE rule_id FOR ’(’ entity_ref ’,’ entity_ref ’)’ ’;’
+	   ENTITY rule_sub_ent;
+	      name : STRING;
+	   END_ENTITY;
+(XML Line 001562): possible decimal point: 3.1415926
+	<example id="_b44fc3cb-ba5a-489d-b21c-6ae3d1c5192a"><p id="_c9570cd3-7dd8-442c-b8dd-9c0534214f78">The following is an example of procedure declaration:</p>
+	<sourcecode id="_226cc46b-162d-482f-884f-43eb3c3a3211" unnumbered="true">PROCEDURE proc_id (formal_parameter; formal_parameter);
+	   declarations
+	   CONSTANT
+	      my_pi : REAL := 3.1415926;
+(XML Line 001628): Hanging paragraph in clause
+	<clause id="scls_6-3" inline-header="false" obligation="normative"><title>Expressions</title><p id="_e2783f2f-1ce2-495e-8276-399bc9220aa5">If the expression fits on one line, then it is done that way.</p>
+	<p id="_6a29c6d7-729f-4171-82e1-f1ec005c73b0">If it does not fit on one line, then it will be written to multiple lines with each line aligned with the expression’s start point on the first line and written with as many of the elements as possible on each line.</p>
+	<clause id="scls_6-3-1" inline-header="false" obligation="normative"><title>Unary MINUS Expression</title><p id="_a32e5f34-b563-4115-87dd-916372c5f794">Write a hyphen (’-’) followed by either a parenthetical expression, a literal value, or a qualifiable factor. There is no space between the hyphen and the following item.</p>
+	<sourcecode id="_88b3110a-8299-46b2-8c82-f2de720a6485" unnumbered="true">-42
+	-(42 * 5 / 3)</sourcecode>
+(XML Line 001819): Hanging paragraph in clause
+	<clause id="scls_6-4" inline-header="false" obligation="normative"><title>Statements</title><p id="_32c27a0a-6389-4899-86ff-10063f54f592">If the statement fits on one line, then it is done that way.</p>
+	<p id="_6ee8a07e-7026-4a72-8cd4-ee430f3f62a3">If it does not fit on one line, then it will use as many lines as necessary and will be formatted appropriately for the specific statement.</p>
+	<clause id="scls_6-4-1" inline-header="false" obligation="normative"><title>ALIAS Statement</title><p id="_dec8d1ba-1cb8-4a55-b084-6a5507b1c7b9">Write the keyword ALIAS followed by the variable id followed by the keyword FOR followed by a general reference and set of qualifiers for the thing being aliased. Finish up with a ’;’ (semicolon) to end it.</p>
+	<sourcecode id="_03ac0c2e-a7a9-4e02-bedf-9b138eb7f9dc" unnumbered="true">ALIAS var_id FOR ent1\attr1;</sourcecode>
+	</clause>
+(XML Line 001890): Hanging paragraph in clause
+	<clause id="scls_6-4-11" inline-header="false" obligation="normative"><title>Increment Control</title><p id="_f23048bb-20b5-4417-83ee-1460d5543cc6">An Increment Control consists of a variable id followed by an assignment operator followed by an expression that calculates the initial value of the variable followed by the TO keyword, followed by an expression that calculates the end value of the variable, optionally, followed by the BY keyword and an expression the calculates the increment value.</p>
+	<sourcecode id="_47f360d2-105a-4540-bb89-17b1ae35b629" unnumbered="true">a := 1 TO 5
+	a := 1 TO 5 BY 0.5</sourcecode>
+	
+	<clause id="scls_6-4-11-1" inline-header="false" obligation="normative"><title>While Control</title><p id="_1ead05b1-5d5e-4c6c-9465-bd9c56859c7b">A While Control consists of the keyword WHILE followed by an expression that returns false when the REPEAT should stop.</p>
+(XML Line 001908): Hanging paragraph in clause
+	<clause id="scls_6-5" inline-header="false" obligation="normative"><title>Style rules</title><p id="_bb3cdae9-7e17-4cc8-a7a8-44934b6dd7ba">These style rules specify capitalization and choosing and using names for objects in a schema. Except for attribute names, EXPRESS identifiers shall be unique across all parts of ISO 10303.<note id="_2fa00974-8628-48f8-8dff-0786b7964a4c">
+	<p id="_7cf47bfd-e76e-44d4-8810-4d11b1c88ba0">The namespace for unique identifiers extends to parts of other SC 4 standards that are deemed to be “common resources”.</p>
+	</note></p>
+	
+	<clause id="scls_6-5-1" inline-header="false" obligation="normative"><title>Use of case</title><p id="_dc7b53ca-80ce-46dd-aa21-71ddbabdb89b">EXPRESS reserved words shall be written in upper case letters; everything else should be written in lower case.</p>
+(XML Line 001913): number not broken up in threes: 10303
+	<p id="_e6a7ee49-a80c-40b4-874b-65d4e6c3227b">A special use of case applies for ISO 10303 ARM application objects. Names of 10303 ARM application objects shall have the first letter be in uppercase.</p>
+(XML Line 001914): Hanging paragraph in clause
+	<clause id="scls_6-5-2" inline-header="false" obligation="normative"><title>Names</title><p id="_f80671df-239d-4037-ae6c-d8803b0678ce">An EXPRESS schema may use a large number of identifiers. Because these identifiers are very suggestive, clarity, avoidance of ambiguity, similarity, and uniqueness are important considerations in choosing an identifier name. The names chosen for EXPRESS elements should reflect the meaning of the element and should complement the natural language definition of the element. However, names should not be a substitute for a definition, or repeat the definition. Obviously, names should not conflict with or contradict the definition of the element.</p>
+	<p id="_934906ca-c32a-4147-b63f-94aa56248b73">The following general rules apply to naming of elements in an EXPRESS schema.</p>
+	<ul id="_90129af0-6d8b-4fdf-ac98-9c9447fb053f">
+	<li>
+	<p id="_71d0be6f-1bbe-4555-b94f-98d366b56426">Avoid confusion with similar names in the immediate context.</p>
+(XML Line 001949): Note may contain permission: 
+The suffix “_select” may be included in the name of a select type if this suffix helps to disambiguate the type from other EXPRESS elements in a given schema or collection of schemas
+	<note id="_01a1f60c-34f8-4493-b8fd-46996c5ed491">
+	<p id="_84f5ec6d-13bb-488e-bd08-009daf0e925e">The suffix “_select” may be included in the name of a select type if this suffix helps to disambiguate the type from other EXPRESS elements in a given schema or collection of schemas.</p>
+	</note>
+(XML Line 001964): Example may contain recommendation: 
+An entity data type that represents documents should be named “document”, not “the_document” or “a_document”
+	<example id="_6da13989-5297-405e-ab11-92db8d62b4cc">
+	<p id="_3b8c2ffa-b026-46b3-80fe-ed937aa4e504">An entity data type that represents documents should be named “document”, not “the_document” or “a_document”.</p>
+	</example>
+(XML Line 001968): Example may contain recommendation: 
+An entity data type that represents documents should be named “document”, not “documents”
+	<example id="_23560502-fe65-46d7-913f-cdcc373d4b27">
+	<p id="_7309de65-43d4-4b41-91f2-b0c27e3eabe8">An entity data type that represents documents should be named “document”, not “documents”.</p>
+	</example>
+(XML Line 002017): number not broken up in threes: 2018
+	<p id="_e06a5664-4e62-4c2d-85ab-a032a0087b80">Although EXPRESS schemas are published as digital files, the documentation of the schema shall conform to publishing requirements based on the rules and guidelines for page size and fonts specified in the ISO/IEC Directives, Part 2, 2018. In order to avoid line breaks in EXPRESS identifiers, there is a practical limit of 60 characters on the names used for EXPRESS elements. Although such long names should be avoided, conventions for naming of entity data types and rules can produce names that exceed this limit. In this case abbreviations may be used.</p>
+(XML Line 002018): Example may contain permission: To avoid such long names, identifiers of constrained entity data types name may be abbreviated as they are used in rules
+	<example id="_baf5eecd-9836-47ab-84d7-a8402caee80f">
+	<p id="_5d7b2c97-8c51-4d85-9891-f859fb038ec9">Some SC 4 projects use a convention for naming rules that combines the name of the entity data type that is constrained by the rule with a phrase that describes the constraint applied. This convention can lead to very long names, such as “product_definition_relationship_requires_primary_classification” (63 characters). To avoid such long names, identifiers of constrained entity data types name may be abbreviated as they are used in rules. In this case, the name “pdr_requires_primary_classification” could be used.</p>
+	</example>
+(XML Line 002027): Example may contain recommendation: 
+In the example above, all rules in the schema that constrain the product_definition_relationship entity data type should be prefixed “pdr_”, not just those whose unabbreviated names would exceed 60 characters
+	<example id="_6adf5c41-159b-48e6-9f0a-403645bfc6c8">
+	<p id="_e32ba7d3-f501-4fa5-8773-8ebb3013d8e8">In the example above, all rules in the schema that constrain the product_definition_relationship entity data type should be prefixed “pdr_”, not just those whose unabbreviated names would exceed 60 characters.</p>
+	</example>
+(XML Line 002035): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002055): Hanging paragraph in clause
+	<clause id="scls_6-6" inline-header="false" obligation="normative"><title>EXPRESS usage style requirements</title><clause id="scls_6-6-1" inline-header="false" obligation="normative"><title>Layout of local domain (WHERE) rules.</title><p id="_15530a87-1c5f-460a-a50d-c5e0349e653e">Large functions that test several aspects of an entity should not be used. Split the function into several smaller functions.</p>
+	<example id="_652331aa-9657-402c-8511-69fa3d1913ac"><p id="_83699ba9-dc23-4e7f-a2fa-6f916a1396ac">The following contains one of each of these uses (in the same order):</p>
+	<sourcecode id="_03d01bb6-9082-4b2d-a0a1-47e45846ef3e" unnumbered="true">ENTITY line;
+	   start : point;
+	   dir : direction;
+(XML Line 002056): possible decimal point: 0.0
+	<example id="_652331aa-9657-402c-8511-69fa3d1913ac"><p id="_83699ba9-dc23-4e7f-a2fa-6f916a1396ac">The following contains one of each of these uses (in the same order):</p>
+	<sourcecode id="_03d01bb6-9082-4b2d-a0a1-47e45846ef3e" unnumbered="true">ENTITY line;
+	   start : point;
+	   dir : direction;
+	WHERE
+(XML Line 002071): Hanging paragraph in clause
+	<clause id="scls_6-7" inline-header="false" obligation="normative"><title>EXPRESS schema documentation</title><note id="_86214949-7b49-4eac-b80c-4e9f4e290f65">
+	<p id="_4b4730ee-490e-464d-8cfa-a25c3b701d8e">Any of the requirements below that only apply to integrated resources are indicated as such.</p>
+	</note>
+	<clause id="scls_6-7-1" inline-header="false" obligation="normative"><title>General requirements</title><p id="_bf9aa600-c291-43c2-8437-74d37611fdda">The title of each clause or subclause in which a schema is declared shall be the schema name (without the “_schema” suffix, if this is part of the name), with underscores replaced by spaces, and with the initial character in upper case.</p>
+	<example id="_01c0d5f0-8bca-4ea3-8997-fdfdc165fe49">
+(XML Line 002080): Note may contain recommendation: 
+Such references in the documentation of a schema should not be necessary, as these words refer to the elements of the language itself
+	<note id="_93dcdf7d-fc40-4209-9d00-b313ed3c44de">
+	<p id="_e435f366-d6c9-46d3-9697-8e1509ef5c06">Such references in the documentation of a schema should not be necessary, as these words refer to the elements of the language itself.</p>
+	</note>
+(XML Line 002104): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002138): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>15</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>15</referenceFrom>
+	    </locality>
+(XML Line 002138): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>15</referenceFrom>
+	    </locality>
+(XML Line 002159): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002167): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>23</referenceFrom>
+	    </locality>
+(XML Line 002169): 'see scls_6-7-8' is pointing to a normative section
+	<xref target="scls_6-7-8"/>
+(XML Line 002169): 'see scls_6-7-9' is pointing to a normative section
+	<xref target="scls_6-7-9"/>
+(XML Line 002169): 'see scls_6-7-10' is pointing to a normative section
+	<xref target="scls_6-7-10"/>
+(XML Line 002178): Example may contain requirement: The following examples illustrate the layout and format of formal propositions:
+WR1: The value of x shall be positive
+	<example id="_38b3ea53-9429-4a39-aa26-bf4f9a58780b"><p id="_72fd3623-24d5-4ace-bc9d-5415a2623976">The following examples illustrate the layout and format of formal propositions:</p>
+	<sourcecode id="_0a2a23f6-2059-4129-9f6f-8a1d81c187a4" unnumbered="true">WR1: The value of x shall be positive.
+	UR1: The name shall be unique.</sourcecode>
+	</example>
+(XML Line 002184): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>7</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>7</referenceFrom>
+	    </locality>
+(XML Line 002184): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>7</referenceFrom>
+	    </locality>
+(XML Line 002187): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>24</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>24</referenceFrom>
+	    </locality>
+(XML Line 002187): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>25</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>25</referenceFrom>
+	    </locality>
+(XML Line 002187): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>24</referenceFrom>
+	    </locality>
+(XML Line 002187): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>25</referenceFrom>
+	    </locality>
+(XML Line 002213): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>7</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>7</referenceFrom>
+	    </locality>
+(XML Line 002213): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>7</referenceFrom>
+	    </locality>
+(XML Line 002216): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>24</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>24</referenceFrom>
+	    </locality>
+(XML Line 002216): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>25</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>25</referenceFrom>
+	    </locality>
+(XML Line 002216): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>24</referenceFrom>
+	    </locality>
+(XML Line 002216): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>25</referenceFrom>
+	    </locality>
+(XML Line 002232): 'see <eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+  <localityStack>
+    <locality type="clause">
+      <referenceFrom>16</referenceFrom>
+    </locality>
+  </localityStack>
+</eref>' is pointing to a normative reference
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>16</referenceFrom>
+	    </locality>
+(XML Line 002232): undated reference ISO/IEC DIR 2 ISO should not contain specific elements
+	<eref type="inline" bibitemid="isodir2" citeas="ISO/IEC DIR 2 ISO">
+	  <localityStack>
+	    <locality type="clause">
+	      <referenceFrom>16</referenceFrom>
+	    </locality>
+(XML Line 002235): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002261): 'see scls_6-7-6' is pointing to a normative section
+	<xref target="scls_6-7-6"/>
+(XML Line 002264): 'see scls_6-7-7' is pointing to a normative section
+	<xref target="scls_6-7-7"/>
+(XML Line 002267): Hanging paragraph in clause
+	<clause id="scls_6-7-9" inline-header="false" obligation="normative"><title>Entity data type documentation</title><clause id="scls_6-7-9-1" inline-header="false" obligation="normative"><title>General requirements</title><p id="_d8d01ad2-beee-45d2-8d25-fb305cf99813">The entity data types declared in a schema shall be documented in a subclause titled “”&lt;schema name&gt; entity data type definitions” or “&lt;schema name&gt; entity definitions”. Entity data types may be collected into logical groups in order to enhance the readability and understandability of the schema. If such groups are used (there shall be at least two such groups), the following structure should be used for the entity definition subclause.</p>
+	<sourcecode id="_ac939d27-2031-4288-81db-e9a83cf64704" unnumbered="true">  x.y.1 &lt;schemaname&gt;entitydatatypedefinitions:&lt;logicalgroupname1&gt;
+	  x.y.2 &lt;schemaname&gt;entitydatatypedefinitions:&lt;logicalgroupname2&gt;
+	  x.y.3 &lt;schemaname&gt;entitydatatypedefinitions:&lt;logicalgroupname3&gt;
+	  ...
+(XML Line 002278): 'see scls_6-9-2' is pointing to a normative section
+	<xref target="scls_6-9-2"/>
+(XML Line 002283): 'see scls_6-5-2-2' is pointing to a normative section
+	<xref target="scls_6-5-2-2"/>
+(XML Line 002337): 'see scls_6-7-6' is pointing to a normative section
+	<xref target="scls_6-7-6"/>
+(XML Line 002338): 'see scls_6-7-7' is pointing to a normative section
+	<xref target="scls_6-7-7"/>
+(XML Line 002356): 'see scls_6-5-2-6' is pointing to a normative section
+	<xref target="scls_6-5-2-6"/>
+(XML Line 002390): 'see scls_6-7-6' is pointing to a normative section
+	<xref target="scls_6-7-6"/>
+(XML Line 002393): 'see scls_6-7-12' is pointing to a normative section
+	<xref target="scls_6-7-12"/>
+(XML Line 002408): 'see scls_6-5-2-6' is pointing to a normative section
+	<xref target="scls_6-5-2-6"/>
+(XML Line 002420): Hanging paragraph in clause
+	<clause id="scls_6-7-12" inline-header="false" obligation="normative"><title>Function (procedure) documentation requirements</title><clause id="scls_6-7-12-1" inline-header="false" obligation="normative"><title>General requirements</title><p id="_126fa0dd-7fe9-47f0-8fef-3cb7c7df2015">The following rules apply to documenting function (or procedure) definitions:</p>
+	<ul id="_db26e80d-e68f-43a3-a891-6538a4408daa">
+	<li>
+	<p id="_24f74bab-9969-4641-b83c-122c787aaaab">All functions shall be declared/defined in the “&lt;schema name&gt; function definitions” subclause.</p>
+	</li>
+(XML Line 002426): 'see scls_6-5-2-6' is pointing to a normative section
+	<xref target="scls_6-5-2-6"/>
+(XML Line 002455): 'see scls_6-7-12-2' is pointing to a normative section
+	<xref target="scls_6-7-12-2"/>
+(XML Line 002458): 'see scls_6-7-12-3' is pointing to a normative section
+	<xref target="scls_6-7-12-3"/>
+(XML Line 002461): 'see scls_6-7-12-4' is pointing to a normative section
+	<xref target="scls_6-7-12-4"/>
+(XML Line 002548): 'see scls_6-7-7' is pointing to a normative section
+	<xref target="scls_6-7-7"/>
+(XML Line 002554): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002611): no space between number and SI unit: 1mm
+	<p id="_ccfbf306-21ef-412f-9a5a-884a930d1b71">The weight (thickness or width) of lines forming the symbols used for entity data types, select types, defined types, enumeration types, base types, subtype constraints, schema references, and off-page connectors shall be approximately 1mm.</p>
+(XML Line 002617): no space between number and SI unit: 2mm
+	<p id="_9244b091-aa2d-4ccf-a4c0-61a0e0024078">All dashed lines shall be comprised of lines and gaps with a “unit” length between 2mm and 4 mm.</p>
+(XML Line 002623): Hanging paragraph in clause
+	<clause id="scls_6-9" inline-header="false" obligation="normative"><title>Examples</title><clause id="scls_6-9-1" inline-header="false" obligation="normative"><title>Documentation of an EXPRESS ARM</title><p id="_18c7932d-b636-4f81-bf34-0daaa7c8b4a1">This example illustrates the required documentation for ISO 10303 application protocol ARMs that are defined in EXPRESS-G (see <xref target="scls_6-8"/>). The sample documentation that follows is based on the ARM EXPRESSG diagram shown in <xref target="fig3"/>.</p>
+	<figure id="fig3">
+	<name>ARM diagram 1 of 1 in EXPRESS-G</name>
+	<image src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAzsAAAIHCAYAAAC44EJNAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAHOvSURBVHhe7d0JvFXT//9xjSTknyGUeez3RWQoc6ZEMlOGlKmECGUIFSKVnzEzGaJfZg0yNKf0o4EGRIb6okJUKAqt/++99l73u+/t3Hv3Od1z7jr7vJ6Px3rU2Xuffc4dzrn7fdZan7WeAQAAAIAEIuwAAAAASCTCDoCMLV261CxatIjmafv999/DnxQAAIWJsAMgY9dff71p1KgRzdM2aNCg8CcFAEBhIuwAyFibNm3MfvvtZ+666y6aR+3GG2809erVM//93/8d/qQAAChMhB0AGVPYad++fXgLvvj3v/9t/uu//ouwAwAoeIQdABkj7PiJsAMAQICwAyBjhB0/EXYAAAgQdgBkjLDjJ8IOAAABwg6AjBF2/ETYAQAgQNgBkDHCjp8IOwAABAg7ADJG2PETYQcAgABhB0DGCDt+IuwAABAg7ADIGGHHT4QdAAAChB0AGSPs+ImwAwBAgLADIGOEHT8RdgAACBB2AGSMsOMnwg4AAAHCDoCMEXb8RNgBACBA2AGQMcKOnwg7AAAECDsAMkbY8RNhBwCAAGEHQMYIO34i7AAAECDsAMgYYcdPhB0AAAKEHQAZI+z4ibADAECAsAMgY4QdPxF2AAAIEHYAZIyw4yfCDgAAAcIOgIwRdvxE2AEAIEDYAZAxwo6fCDsAAAQIOwAyRtjxE2EHAIAAYQdAxgg7fiLsAAAQIOwAyBhhx0+EHQAAAoQdABkj7PiJsAMAQICwAyBjhB0/EXYAAAgQdgBkjLDjJ8IOAAABwg6AjBF2/ETYAQAgQNgBkDHCjp8IOwAABAg7ADJG2PETYQcAgABhB0DGKjvsPProo+aKK64wvXr1Mj/99FO4tbjvvvvOdO/e3UyZMiXcknyEHQAAAoQdABmr7LBz6623mj333NPssssu5ssvvwy3Fvf111+btm3bmtGjR4dbMvP777+bMWPGmPnz54db/EXYAQAgQNgBkDEfhrENGDCgzLBTUb744guz0047mYcffjjc4i/CDgAAAcIOgIwRdvxE2AEAIEDYAZCxXIWd2bNnm379+hW1IUOGmH/++cfuU9jZbLPNzPXXX2/3vfrqq3a7fPDBB0X30Tnkzz//NIMGDbLbnn/+eXvb+e2338zTTz9ddB+1r776ykyfPt1cd911pm7duubUU081r732WniP8mnO0H333WfP9fbbb4dbs4uwAwBAgLADIGO5CDsLFiwwDz74oNlrr72Kmh53xowZZvny5Tbs1KxZ0+y+++52X7t27WywUXAZOHCg2XXXXU316tVtiFm6dKktVKDAomNPO+0087//+79m2bJl5pdffjHjx483J5xwgt234447mipVqpgRI0aYwYMH2/PrcerXr2+uvPLK8NmVbfHixeaVV14xBx54oD1n586dzWeffWb++OOP8IjsIOwAABAg7ADIWC7CzqWXXmo6duxovv/++6L2xhtvmO222868++67NuzssMMOZvLkyXafen223357M2nSJBt4Ro0aZbbccksbdnQ/hZZ33nnHHvvWW2/ZMDRs2DDzP//zP6ZRo0ZmwoQJReepVq2aDTsqTqDz6bx33nmn+fnnn8NnVzb15rRo0cLMmzfPnlND4Pbbbz8zd+7c8IjsIOwAABAg7ADIWC7CTuvWrc0FF1wQ3gqoKlqNGjXM8OHD15qzo+CiHhgdIx9//LHZeuutbdhRoNG+E0880Z6zZcuW9jwvvviieeqpp2yvzaxZs+z9FE50HwUHyWTOzi233GKD1nnnnWcf75BDDjENGjQwc+bMCY/IDsIOAAABwg6AjOVj2NH9jjnmGHPWWWcVtffff3+tsFNSpmFn8803t8Pl3GN16tSpKEBlC2EHAIAAYQdAxnIRdhR0Lr74YjuvxrU333zTFiXQMLTHH3/cDj+bOXOm3ac5MgoYGo4m0bCj4gXbbrutGTduXLHzrV692hYt0BA3N4fHtb/++suex4UdBYgVK1bYbeW54447zNFHH22LFLjz/frrr+bvv/8Oj8gOwg4AAAHCDoCM5SLsKGTcf//9pmnTpkVNi4RqDo2KCixatMj25mhomvZddNFFRYFFomFnyZIlZuzYsba3KHo+LTj6ww8/2GppKl4Q3afHERd2VLigW7dudlt5FDpU3KBZs2ZF5zvppJNshbdsIuwAABAg7ADIWC7Cjnz00UemZ8+eRe2ZZ54p1juiggEKRNqncBEVDTuiSmhPPPFEsfO5OTTqddEwtei+zz//3O5TUFIJaW0r+RhlUfBQUQN3PgUQBatsIuwAABAg7ADIWK7CTrrWrFljPvnkE1tmWkPXmjdvbquqVSSt8+Meo7Sm4WuVgbADAECAsAMgY76GHc3BadWqlalTp44dOqYhaKtWrQr3VgydT0Pn9Biltb59+4ZH5xZhBwCAAGEHQMZ8DTvqdVERAq2Vo3k42VjEU4+h+T96jNJatktMl4awAwBAgLADIGO+hp1CR9gBACBA2AGQMcKOnwg7AAAECDsAMkbY8RNhBwCAAGEHQMYIO34i7AAAECDsAMgYYcdPhB0AAAKEHQAZI+z4ibADAECAsAMgY4QdPxF2AAAIEHYAZIyw4yfCDgAAAcIOgIwRdvxE2AEAIEDYAZAxwo6fCDsAAAQIOwAyRtjxE2EHAIAAYQdAxgg7fiLsAAAQIOwAyBhhx0+EHQAAAoQdABkj7PiJsAMAQICwAyBjhB0/EXYAAAgQdgBkjLDjJ8IOAAABwg6AjBF2/ETYAQAgQNgBkDHCjp8IOwAABAg7ADJG2PETYQcAgABhB0DGCDt+IuwAABAg7ADIGGHHT4QdAAAChB0AGSPs+ImwAwBAgLADIGOEHT8RdgAACBB2AGSMsOMnwg4AAAHCDoCMEXb8RNgBACBA2AGQMcKOnwg7AAAECDsAMkbY8RNhBwCAAGEHQMYIO34i7AAAECDsAMiYws6ee+5punXrRvOodezY0Wy22WaEHQBAwSPsAMhY7969zdFHH533rV69ema99dYrarvuumvK4/Ktvfzyy+FPCgCAwkTYAZCxv//+2/z11195384444xiYadv374pj8u39s8//4Q/KQAAChNhB0DBO+uss4qFnf79+4d7AABAPiPsACh4hB0AAJKJsAOg4BF2AABIJsIOgIJH2AEAIJkIOwAKHmEHAIBkIuwAKHiEHQAAkomwA6DgEXYAAEgmwg6AgkfYAQAgmQg7AAoeYQcAgGQi7AAoeIQdAACSibADoOARdgAASCbCDoCCR9gBACCZCDsACh5hBwCAZCLsACh4hB0AAJKJsAOg4BF2AABIJsIOgIJH2AEAIJkIOwAKHmEHAIBkIuwAKHiEHQAAkomwA6DgEXYAAEgmwg6AgkfYAQAgmQg7AAoeYQcAgGQi7AAoeIQdAACSibADoOARdgAASCbCDoCCR9gBACCZCDsACh5hBwCAZCLsACh4hB0AAJKJsAOg4BF2AABIJsIOgIJH2AEAIJkIOwAKHmEHAIBkIuwAKHiEHQAAkomwA6DgEXYAAEgmwg6AgkfYAQAgmQg7AAoeYQcAgGQi7AAoeIQdAACSibADoOARdgAASCbCDoCCR9gBACCZCDsACh5hBwCAZCLsACh4hB0AAJKJsAOg4BF2AABIJsIOgIJH2AEAIJkIOwAKHmEHAIBkIuwAKHiEHQAAkomwA6DgEXYAAEgmwg6AgkfYAQAgmQg7AAoeYQcAgGQi7AAoeIQdAACSibADoOARdgAASCbCDoCCR9gBACCZCDsACh5hBwCAZCLsACh4hB0AAJKJsAOg4BF2AABIJsIOgIJH2AEAIJkIOwAKHmEHAIBkIuwAKHiEHQAAkomwA6DgEXYAAEgmwg6AgkfYAQAgmQg7AAoeYQcAgGQi7AAoeIQdAACSibADoOARdgAASCbCDoCCR9gBACCZCDsACh5hBwCAZCLsAChY8+bNMx07djQ77LADYQcAgAQi7AAoSLNmzTIDBgww559/vjn77LOLtdtvv92MGTPGrFmzJjwaAADkI8IOgIKiALN8+XLTs2dPc9xxx5lff/013PMfPXr0MCeeeKL58ccfzerVq8OtAAAg3xB2ABQUhZsLLrjA9OrVy3z66afm77//Dvf8x7///W/z3HPPmSZNmphJkyaFWwEAQL4h7AAoGBq6dsstt5hbb73VTJgwIdya2tdff2169+5te3lGjBgRbgUAAPmEsAOgYPzP//yP2XTTTc3//u//hlvK17JlS9O5c+fwFgAAyCeEHQAFg7ADAEBhIewAKBiEHQAACgthB0DBIOwAAFBYCDsACsbQoUNNw4YNzdtvv23LT5fljz/+MN9++61p3bq1LWoAAADyD2EHQMFYtmyZ+eCDD8zJJ59sHn744XBralOmTDF77723LUG9cOHCcCsAAMgnhB0ABeXPP/80L7zwgl1U9IEHHrA9OCUNGzbM3Hjjjebuu+82X331VbgVAADkG8IOgIL07LPPmnbt2pnhw4ebd999t1jr3r27ue6661IuOAoAAPIHYQdAQVqzZo2ZPHmyLVhQtWrVYq1///52PwAAyG+EHQBpmzt3rjnzzDPN8ccfn9ftoIMOMtWrVzfrrbdesbbHHnukPD7f2muvvRb+xAAAKEyEHQBpU+nm//f//p9p0aKFufLKK2metQsvvNDUrVvX/Pd//3f4EwMAoDARdgCkzYUdrVsD//z73/82//Vf/0XYAQAUPMIOgLQRdvxG2AEAIEDYAZA2wo7fCDsAAAQIOwDSRtjxG2EHAIAAYQdA2gg7fiPsAAAQIOwASBthx2+EHQAAAoQdAGkj7PiNsAMAQICwAyBthB2/EXYAAAgQdgCkjbDjN8IOAAABwg6AtBF2/EbYAQAgQNgBkDbCjt8IOwAABAg7ANJG2PEbYQcAgABhB0DaCDt+I+wAABAg7ABIG2HHb4QdAAAChB0AaSPs+I2wAwBAgLADIG2EHb8RdgAACBB2AKSNsOM3wg4AAAHCDoC0EXb8RtgBACBA2AGQNsKO3wg7AAAECDsA0kbY8RthBwCAAGEHQNoIO34j7AAAECDsAEgbYcdvhB0AAAKEHQBpI+z4jbADAECAsAMgbYQdvxF2AAAIEHYApI2w4zfCDgAAAcIOgLQRdvxG2AEAIEDYAZA2wo7fCDsAAAQIOwDSRtjxG2EHAIAAYQdA2gg7fiPsAAAQIOwASBthx2+EHQAAAoQdAGkj7PiNsAMAQICwAyBthB2/EXYAAAgQdgCkjbDjN8IOAAABwg6AtBF2/EbYAQAgQNgBkDbCjt8IOwAABAg7ANJG2PEbYQcAgABhB0DaCDt+I+wAABAg7ABIG2HHb4QdAAAChB0AaSPs+I2wAwBAgLADIG2EHb8RdgAACBB2AKSNsOM3wg4AAAHCDoC0EXb8RtgBACBA2AGQNsKO3wg7AAAEvAg7S5cuNQsWLKB52n755ZfwJwUECDt+I+wAABDwIuzcc889pmHDhjRP2x133BH+pIAAYcdvhB0AAAJehJ0bb7zR7LzzzqZfv342+NAqrnXt2tVssskm5uyzz065v7ymC6bOnTuHPykgQNjxG2EHAICAN2HniCOOMH/88Ue4BRXl448/NltttZV5+umnwy3padmyJWEHayHs+I2wAwBAgLCTcIQdZANhx2+EHQAAAoSdhCPsIBsIO34j7AAAECDsJBxhB9lA2PEbYQcAgABhJ+EIO5lZtmyZ+eyzz4ra/PnzzT///BPuza3FixcXPY/ff/893Fq5CDt+I+wAABAg7CQcYSczr732mtl+++2L2plnnmlWrlwZ7s2tXr162eewww47mIkTJ4ZbKxdhx2+EHQAAAoSdhCv0sPPJJ5+Yjh07mjlz5tjbixYtsr9v5YWGL774wjz22GO2HX/88eawww4zK1asCPfGM2jQIPPoo4+GtzI3efJk+zOoWrWqeeedd8KtlYuw4zfCDgAAAcJOwhVS2NEFuHpk3nrrLfPrr7+aWbNmmR49epj11lvP3HLLLXbfAw88YLbYYgtz6aWX2ttltREjRpilS5ea7t272wtHXdhr+4wZM2zwGTVqlL2tMCKTJk0qdv9jjz3WNG3a1AwdOtQsWbLEHvPLL7/Y8+piNB0jR44k7CA2wg4AAAHCTsIVUtjRwqk1a9Y0DRo0MNOnTzfXXHONWX/99W3Y0b8bbrih2WCDDUyVKlXscbpdq1YtGyJq1Khhb7um/ZtvvrmZNm2aDTs6Rsdqn4LS559/bho1amSqV69uWrRoYR//pJNOsudxx2pftWrV7HkUiFavXm3/1fN79tlnzapVq+z94iDsIB2EHQAAAoSdhCuksKMha926dbPBZr/99jN9+vQxd999tw07/fv3NxMmTLBDy/T96Nq1q7397rvv2tDStm1be9u1m2++uVjY2Xvvve2x2qcLyFatWplXXnnFzuVxYWf27NnmiiuusPNrXn75ZXuMfq/V46OCBwo4bdq0sT1POq537972fnEQdpAOwg4AAAHCTsIVUthR+Lj11lttkFBQueeee8zbb79te3IUMEQVzRRGNBdHNBzt8MMPt4EmSqEoGnaic3Z0X51D5+rSpUtR2BE9ZsOGDc2CBQvMJZdcYk477bRwj7Hhpn79+uamm24qClhxEXaQDsIOAAABwk7CFVLYOf30023AUNDQhZ6PYUfD4BR01POkeURxEXaQDsIOAAABwk7CEXb8Cjv77LOPne/z448/2iIKcRF2kA7CDgAAAcJOwhVS2NF8Gs3TOfXUU02dOnVs78nRRx9t5+wcddRR5rzzzrPzaGrXrm2aNGlib2sOzZZbbmn23HNPO09HAeSRRx4xhxxyiJ37c8IJJ9ihcari1q5dO3ufG264wVZb0zycqVOnmnvvvdduV9Nj6rH1HHbZZRez3XbbFe1TZbgBAwaYCy64wN7W48Sh4KXnr9Cmr+eFF14I91Qewo7fCDsAAAQIOwmXjbDz7bff2gvwku2rr74Kj6g8Y8eOLQoX6bZo2IluV+nouXPnmgsvvNDefuqpp8JHC8ycObPY8aU1FS34+uuvbTU33Y4bdp577rli5yHsoDyEHQAAAoSd//Pbb7+Zn376KWVzz2nNmjV2zZVUx7iWaoX9v//+266tkmrfX3/9ZX7++eei+2stFm2rSBUddvS9evHFF+0Qr5LtiSeeSGtoFoz5559/Sv290u+Gfn98RNjxG2EHAIAAYef/9OvXzw4/StXeeOMNe8zvv/9uhx+lOsa1Z555xh4bpV6QU045xQaEkrRKv+Z7uPvre6CFMCtSRYcdDRNTD4fmspRsqoJWcu4LyqYgfO655xb7PXJNQ+7mz58fHukXwo7fCDsAAAQIO/9Hk77PP/98OwFcgUYTyV3TPAtd0P355582zGjOxLbbbmuHPLljNIdDgaJv377hGf/jyy+/tHM3HnzwwXDLf/zwww/m/vvvN40bNzZ77bWXXRPmu+++C/dWjIoKO+pp0PPr1auXeemll8K9xQ0bNszOb9H3RCEP5VPRgyeffLLodynaNL9HvX0+Iuz4jbADAECAsBMaMWKEXe1+1KhR4ZaAejG0cKSji3lNbtfQI1XjUmUtXZAqJJWcS/H999/bniH17Kj3aM6cOeGe4nTf1q1bh7cqVkWEHVU504T8k08+2bz++uvhntT0/WvevLkZPHiwrUiGZCLs+I2wAwBAgLATyiTsqDeoQ4cOdj6Pnvvq1avDowIqUawLDq2sr94RhYZUfA871atXtz1Pn376ablzirRfvVOqZqYhb0gmwo7fCDsAAAQIOyGFHZX2PfTQQ+3aKK6pR+aDDz4IjwrCTt26dc2JJ55oGjRoYNq3bx/uWdtDDz1kdt55ZzNv3jw7n0X3ScX3sKPSzbvttlvsamuaWH/ggQea2267LdyCpCHs+I2wAwBAgLATcmFHF/dNmza1gUYTxydNmhQeEVDY0bosWnNFQYaws7Z0w44WzFQvWGW2Dz/8MHw25VMPV6pz5LJp3pQq48WhSoCvvPJKyvNk2jRPbcMNNyTseIqwAwBAgLATig5j08Vcs2bNbIWxkheU0WFsCjDXXnttuKc4rZB/++2325X2x48fb8ORihtoHkvJr7PQw46+N/o+VWZTD15cmpuV6hy5bMccc4xZuHBh+IzKpuISxx9/fMrzZNr0O6WCHoQdPxF2AAAIEHZC0bCjggNvv/22nXeiT8SjomFHc1NKu+C87LLL7AVhzZo1be+OhvxstNFGdu7LlClTwqMChR52dGGm3pLKbAqncelnn+ocuWz6WZScI1YazaPSYqapzpNpGzJkiNlkk00IO54i7AAAECDshEoWKFBRgfr166+1Wn407DjLly+3PQNjxowJtxi7Rorm/9x7771F7eKLLzY1atQwo0ePDo8KpAo733zzjf2+zJgxI9ySmYoIO4cddpj9+rp27brWsL6Spk+fbq655hpz11132XkdSCbm7PiNsAMAQICw83/0SbV6ITQsRxXE5s6da8OG5uxobZm33nqrqLVt29bsvvvutsfHbVOZ5Z122smus6NeDa3bo0CkwDNhwgS7looeQ0FJgco9xq+//mrGjRtnSzUffvjhxR5H4ah27dr2E/R1URFhR5Xk1Iul+Un6GhVoUtGCqPfdd58544wz7NeH5CLs+I2wAwBAgLDzf3Qxr6FarqkHw1Hp6ei+spqCwNixY+3QNbctWqAgemy3bt3MzJkzzTbbbFNse8nmS9hxOnXqZNfbSUVzb84+++zwFpKMsOM3wg4AAAHCzv9Rr4vm6LgW7ZXQcLbovrKa5kW4nh23beLEiUU9O9Fjoz070e0l26JFi8JnkpmKDjuffPKJrTJ33HHHrdXuueceG+CQfIQdvxF2AAAIEHYSrqLDjigAdunSZa2WTvlm5DfCjt8IOwAABAg7CZeNsAMQdvxG2AEAIEDYSTjCDrKBsOM3wg4AAAHCTsIRdpANhB2/EXYAAAgQdhKOsINsIOz4jbADAECAsJNwhB1kA2HHb4QdAAAChJ2EI+wgGwg7fiPsAAAQIOwkHGEH2UDY8RthBwCAAGEn4Qg7yAbCjt8IOwAABAg7CUfYQTYQdvxG2AEAIEDYSTjCDrKBsOM3wg4AAAHCTsIRdpANhB2/EXYAAAgQdhKOsINsIOz4jbADAECAsJNwhB1kA2HHb4QdAAAChJ2EI+wgGwg7fiPsAAAQ8Cbs7LPPPmbUqFFmwoQJtApsAwcONHXr1rXf41T7y2sHHXQQYQdrIez4jbADAEDAm7BTtWpVU6tWLVoFtw022MBUqVLF1KxZM+X+8lq1atUIO1gLYcdvhB0AAAJehJ05c+aY1157jeZpmzlzZviTAgKEHb8RdgAACHgRdgDkF8KO3wg7AAAECDsA0kbY8RthBwCAAGEHQNoIO34j7AAAECDsAEgbYcdvhB0AAAKEHQBpI+z4jbADAEDAu7CzZs0amscNEMKO3wg7AAAEvAs7vXr1Ms2bN6d52oYPHx7+pFDICDt+I+wAABDwLuyccsopZu+99zZXX301zaPWvn17U6dOHfPwww+HPykUMsKO3wg7AAAEvAw7l156aXgLvvj888/NTjvtRNiBRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexEHYQRdjxG2EHAIAAYQexFGLY+e2330z//v3NVVddVdRmzpwZ7s2tTz/9tOg5vP766+HWykPY8RthBwCAAGEHseR72Jk6daoNDM7s2bPN9OnTw1upLVu2zHTu3Nkcf/zxpkmTJqZatWrmtddeC/fGs2jRIvPOO++YX375JdySGT1/PY/NN9/cXHPNNeHWykPY8RthBwCAAGEHseRL2FmzZo35559/bNP/Rf9v0aKF7RVx+zp06GBOPfXUottlNZ1n4sSJZsMNNzSvvPJK0XaJPl7J22ovv/yyqV27tpkwYULR8xH9P3o7Dp2vefPmhB2Ui7ADAECAsINY8iXsjBw50gYCtVdffdVMmzbN/l89Itttt13RvgYNGpgtt9yy6HZZbfDgwUVhp1GjRnbbeeedZy8oH3nkkaLj9Fh6THdbTcerR+iAAw4wTz/9dPgsjbnrrrtM3759w1vxEHYQF2EHAIAAYQex5EvYmTJlirnkkkvMZpttZk466SRzxx132HCwww47mMaNG9v/q+29995ml112Kbp9yCGHmHr16plOnToVbdP/tU3ncGFH59S+bt262bDSo0cPc9ppp5n11lvPvP3227YHp127dmbjjTc2xx57rGnVqpWpUaOGad26tQ1iixcvtt/Dm2++2TaFpR9++CF89mUj7CAuwg4AAAHCDmLJl7CjuTEKHAoFCjzHHXecHS6mYWxdunQJjzJFw9gcBZr99tvP/Pjjj+EWY3766Se7LRp23Jyd+fPnmz322MPce++95q233ioKO6K5QepFevzxx21Pj4axvffee3af5t7oeSko9enTx/YulTd3yCHsIC7CDgAAAcIOYsmXsPPCCy+Y/fff34aTiy++2Nuwo1a3bl3CDrKCsAMAQICwg1jyJewoYChofPLJJ+bqq6/2NuwoiD3xxBNm0KBB9nHiIOwgLsIOAAABwg5iyZewM2rUKHP++eebp556ypx44om2QIAqou2zzz6mZcuW9v9qmk+jctLu9tlnn22/voEDB5oFCxbYpv9rm/bp69a8G4UbHf/ss8+aCy64wIwYMcJ89NFH5owzzjAPPvig3XfffffZgggdO3Y0Xbt2Neuvv765/fbb7b7HHnvMnHPOOebuu++2t4cPH26WLl0aPvvSqYT1Sy+9ZL8ezQNSOeuVK1eGe3OPsOM3wg4AAAHCDmIpLeysWrXKLr4Zbb///rv5+++/wyNy79tvv7VD2TbaaKOMmi7ghwwZUmybelRWrFhhg4puN2zY0MydOzd8xMDJJ59c7D6p2uGHH25+/vlnc+GFF9rbO+64o/n444/DM5RO4SZ6HlV3++6778K9uUfY8RthBwCAAGEHsZQWdjQMS5XMok2LX0YX8My1P//8086DmTRpUkZNQ9nUottmzZplh5F99tln9raGo5XsWZkzZ06x+6RqCjarV6+230/d/uCDD2xALI8KL0TPM2PGDPt1VhbCjt8IOwAABAg7EbqYff755+2Qo0cffdT8+uuv4Z7i9Il6//797cVtrui5aAiUnpsChp5rLpUMO3/99Zd57rnnTK9evYrKKLt2yy23mFtvvdXOc0E8Y8eOtT/bVE2ByDeEHb8RdgAACBB2IjT06vLLLzfbbrut2XPPPUsdJjR79mxz1FFH2aFF60LDojTfI84EdR2juSNbbbWVOfroo23vQC5Fw47mmLz//vt2SNeAAQPCI/5j+fLldq0ZBR718FTmkLZ88dBDD9mhaamaj4GCsOM3wg4AAAHCTgnqQdFFellhR70aGlak+SrrQhXDdEGicsnlUU/OsmXLzBVXXFHpYUeLYyp06V8FtpJU/UyBRz08GtIWZ5hWodP3UXN5UrU//vgjPMofhB2/EXYAAAgQdlLQELWywk5FmTlzptlmm21s1a+4tHJ/ZYYd9TSopLMm8C9evDjcm5q+PvX8tG3b1suhWMgcYcdvhB0AAAIFG3ZUSUvlg10bM2ZMuCcIOw0aNLAlhLVPK/I7mmDu7vPNN9/YbZqoPmzYMLtNQ9ui82nUU6S1Wdx9NN9m4cKFdr5P7969zaabbmrXXIk+RlkUdnQRo4Ck8+UqRLiwo/VkVHUsLk2m33jjjW2ZZSQHYcdvhB0AAAIFGXY05+SBBx4w9erVK2paJ+WHH36wQ9MUdqpXr27XStE+9UyoOpd6U7Q+ila+r1Klir3Q0xAjBZfDDjvMHqu1XdQjpEpZCkHTpk2zZZC1T8GmRo0aZvTo0bbHQ+epWrWq2WSTTewil3Eo7NSsWdOuvK9zXnXVVWbJkiVZnxezrmHnySeftD1BtGQ0LaRap04dwo6nCDsAAAQKMuxoJX2tQq/yva4988wzNpToE2uFnV122cWuiK99qoJ26KGH2mFZWtxRVch0Aa8LvaFDh5pmzZrZf3Xs4MGD7XnUU/Piiy/a9Vncee6///6isKNgpf1bbLGFrWjmeonKo7Bz4IEHmg8//NCeU+HrpJNOsmvLZNO6hh2tJ7PvvvvSEtJ22203U61aNcKOpwg7AAAECjLsKBx06tQpvBXQSvi6eNMK/CXn7GjlevW+qAKZKBCpl0YXek8//bRd5FGLRN5www22YprOo2FtqrC18847m3nz5tn76d++ffua+fPn29sVMWdHq/YrmH355Zf2drasa9hR5bY+ffrQEtIuu+wyU6tWLcKOpwg7AAAECDuhdQk7Glam3pwjjjiiqE2ePHmtsFNSPoadXXfd1XTs2NH2XGk4YFnUW6VeMPVujR8/PtyKJGDOjt8IOwAABAg7oXUJOyrDrGFlmr/jmooUJDHsaCjeq6++audrlFdUQSW8Ffy0RhBr7SQLYcdvhB0AAAIFGXZ0oXbXXXfZ4Viuaf0azbtRIQKFE4UYDUnTPhUBUBjSmifu/i7sLFiwwM7TueCCC4qdT+Hn66+/tj0bKnDgtp9++uk25IgLO5oDoYAVh4ohaK2bU0891Z5PQ+cU0H7//ffwiOxwYUePrXlLCjzq4dHXV5LW1enataudizRx4kS7LhGShbDjN8IOAACBggw7ol4JPY5r6oWJ+v77722Q0L4nnngi3BqIhh3RYp8qIx09nws0Ck89evQo2n755ZfbsteinqPrr7/eble1srh0f51H99N6N7kQDTuiAHPPPffYr+2RRx4p1tTbpAIQb775pj0WyUPY8RthBwCAQMGGnXRpWJoCkHprdBG/11572SIEFSn6GKU1BavKUDLsOAo3qrQWbfvss49djyhK1ec0nE0hSSEv1deminKuF2jFihUpj3FNRR5U3vuXX35Za58u9FIturp8+fJij5Ek+t3R+k36+vU7FF3rKV3qudN59HMq7XtF2PEbYQcAgABhJyYNzWrdurUtuduqVSszffp0u2BoRdL5zjrrLPsYpbV0eoAqUmlhR0P7tC/aNAxQ85airrzySnPTTTfZC+mWLVum/NqOO+64ohLaGpqX6hjXmjRpYmbPnm3uvffetfapFHiqOUwqL3788ccXzcVKEg1j1LBLff1aMyrTUKy5Ve3bt7fn0ZpRWlMnFcKO3wg7AAAECDsxabFRFSrQBH2tj6NehYqmc+rceozSmkJWZSgt7MSlC/CLL77Yhsbnn3/eHHnkkWb33Xc39913n/26TjvtNHvbrTf01Vdf2TWEVHzh2GOPLfr6DzjgALPffvvZtY90Ia6iEZpTpYp4Kv/dpk0bs91225lPPvnEnifqo48+snOMKjqk+kA9WS+//LI54YQT7PfIzS9L15o1a8zrr79u54NFi3SURNjxG2EHAIAAYQexZBp2NMzsnXfeMZ07d7ZhxdGcHoUYN9xK+xo0aGAr06nog6h3SNXcbrzxRntbVOxBa/ZEvffee6Z27drmlVdesSv7q3dMgUpDsRwVjNDww2hTcFRPxpQpU+zXp94Q9SiVPE5Nx7iKcnp+Y8eOtcHt008/XetYzQdbuXKlmTVrlr2tRWX1fRD3GBpqVhY9Rsnzjhw50g4F1NfltumiNuq2224rFnYUVrSIrYbwpUNBk7CTvwg7AAAECDuIJdOw4xYVVa9DVKqwowVLq1ataucBaXuqsNOuXTtz7rnn2v3qhVBTxTeVBleFOFFQ0IWeCig46vGoUqVK0WPo//pdU2DRY3Tv3t1MnTrV1KtXz+5T03E6Xv/XMZpHpMd99NFH7dwk9R516dKl6Dj9q/avf/3L9lB16NDB3tbXr0Cm5/rBBx+YLbbYwoYx97Wnop6r6OPr/9WrV7fBSRew7rEef/zxYueJhh1t19C9rbfe2gY7PX5chJ38RtgBACBA2EEsuQg76tnRMDOtJdSzZ8+UYUfzdDT0TSW89ZxUIlxzTNTLoSIIkirszJgxw66ttO2225pBgwbZeUNbbrmlncOj3iSFhPPOO8+WH9c6Rmp6zlpEVWXFFYTUs6Ny2iqrrV4kzeHq06ePufPOO20o0b/vvvuuDQB6fgoMuj1mzBi7AOsLL7xge6b0GBp617dv3/DZrU1zl/Q89Xz1vHUe9ZBdcskl9vuh22rXXnutfe5ONOzo+SiMvfHGGzYgphNMCDv5jbADAECAsINYchF23JwdBQkVM9BaSFqUNRp2RKFhs802swHk5ptvNoceemixdYZShR1RMYM99tjDVnJTr4vmA6m8uOYH3XHHHXYukEqFK/SoaciYtmmfo/WNmjZtap+fwpLOqaFzCjvqdRENbdO8oTPPPNMGG0flyRVeFEgaN25sg09Z9L1w85pE36vmzZvb752jeVCaD+VEw44KFuy///42oNWvX98Gs7gIO/mNsAMAQICwg1hyGXZEvSG6WNNcnGyFHQUXJ52wo4t8DVVTU09UybCj8HTMMcfY/SqaoPCjIXAKO7Vq1bLPQftKfl0lVUTY0XpQ7rmWXC+qLISd/EbYgaP3MS1GXdFN77Nx6f1P74OpzpPLlk5xGr33pTpHRTdXgRRA9hB2EEuuw44m+KuEtXpRfAs7GhKmP1BqmvNTMuyoMprWvHFD0VTGWXN1FHb23ntvW7hA+1wRgdJURNjRPvdc0/lDT9jJb4QdOJoDqSHCFd00vDeuadOm2ffeVOfJZdOHaHFpqHGqc1R0U/EeANlF2EEsFRV2VJWsR48edlFWDa266KKLbFOoqVOnjp0HM378eHtsqjk7ojV09Adcf4w0RGv48OHFFr9MFXYUdPQY6unQY+gP7w477GDnw+hrU6DZfPPNbZDRcC81/R4qaKhktaNKajrWPW81rQ+ksNOiRQszZMgQG3Suu+46u0/zj1QkQOsL6Tw6n86rfWWtmaTvgZ6nvid63rqfCgwoWCnQuMfWvBxVW9P3Ss9Z4UwFEBTWNAxQ29yxquZWHgUqXSAfeOCBNswoMKm4QkmEHb8RduDMnDnTvtfEaZr/qPdIva+m2h9tmjMYl+ZTPvvssynPk8um10Vceg9OdY6KbHpv198cANlF2EEsmYaduXPn2rkpCh76dG/JkiXm6quvtj0OpTVNxBetbaRgpJ6cktRLcf3119v5PVEqy6w/qho+phDkqFcl1WPpD42GV6iSm9um0tGq8KZzaEhaSQo80XNEm4KNelH0O6zb/fv3D+8VUFDTJ6La9+CDD4Zb16YLieh5o71L+rrcdgUdUdhRL1f0Pgop+oPtbmv9nPIo7ChMRc+T6tNQwo7fCDvIhIq1bLPNNjYgIfv0oRRhB8g+wg5iyTTsOLpo1pCrbFMp5tIWFfWRems0nl3hrWTT0Dw3zK+iqKKcht6lejwNHYyLsOM3wg4yQdjJLcIOkBuEHcRC2MkODetTT88hhxyyVlP56nQmAcehEtzNmjVL+XgqqR0XYcdvhB1kgrCTW4QdIDcIO4hlXcOO5rJovZds01A5Ta5XoYF8oN4bfU9vueWWtZouVFUkoSJpmN+tt96a8vFUTCEuwo7fCDvIBGEntwg7QG4QdhDLuoYdJAthx2++hB1VFFQlQtc0n60y6fHdc1GvallUVCT63FUd0vn++++Ltmseoj6UcLdVoKQsWmDYHaufk6MPIrRNH9hoqGllIOzkFmEHyA3CDmIh7CCKsOM3X8JOly5dTN26dYuaCoVUJhXfcM/lzTffDLemNmDAgGLPXZXKnH79+hVtV5EUvQ7cbVcqvjQqwOKOVY+qoxLE2qZhuAo9lYGwk1uEHSA3CDuIhbCDKMKO3yo67Lz44ot2+OOff/5pb6tCny7OS1uHydFF++DBg83TTz9ty73fdNNN4Z54NBz12muvtSXX18Xy5cttCXuFHT0ftdJ6mVQ0RCXdVd3QHXvkkUfaeYeOzrPzzjvbhXq1bpd6ZVQOf/vtt7cl30ujao0KgO68t99+uy1Tr3Wx9Jq68sorzSabbGLef//98B65RdjJLf2cK+tnDRQSwg5iIewgirDjt0zDjoZkaX6dLspVfl3hRqXOW7VqZRfHVQEQ7VMvhxb21TpOul1WGzdunK04eNhhh9nzuO0q667mbmux3cWLF5vnn3++aJvm32299dbmnHPOsSXfHRUg0RzA6GLCZdE6L/vuu68588wz7eK/qkpYGlVA1ILHClnOU089ZXt6HIUdrUUVXRhYz32fffZZK+yo/L5K2ytwaV5cdP0vlaaPLt770ksvVXjY0Sr9Q4cOtT+D8hB2ACQRYQexEHYQRdjxW6ZhRxe5ut8GG2xgqwF+9tlntlejdu3apmbNmmbLLbc09erVsxfk1apVswvx6rZ+F7Swrv7Vbddq1aplTjvttKKwo/O4fQoQWlhRi+DWqFHDriU1ZcoUu9jv+uuvb++r81evXt0uTKwFbkVzbRQSDj74YPPxxx/HKpmuOTXHHHOMfdyWLVvaKoeul6okhZ2zzjrLLgisAKNW8jHSCTvq1dKxqdbsykXY0ZC7vffe284zKg9hB0ASEXYQC2EHUYQdv2UadnRRP3v2bBsI9PM99NBD7WK0KhuvnhFdhH/00Ud2iJd6XF577TV7+6GHHrJhR//qtmsKTNGwo/O4fZ06dTKXXXaZGTt2rGnYsKENO5qYrwvto446yt5X82oUfhQ8FBY0xEz304LC2qfj1GtSnr/++sv2sOhx1XN1wAEH2MctjRb/Va+Vwouavs6odMKOgpZ6olKFK8IOAGQfYQexEHYQRdjxW6ZhRxfdmkeii/nWrVvbnpWpU6fauTYKK27Y2GOPPWYn0n/66af2toaGKezo36gOHToUCzvROTuamK0J2pqX07hxYxt2nFNPPdV07NjRVnPTXB836V9hp3nz5jasKDgpGGhoXTrGjx9ve64U4sqi+UYKLmo9evSww+ucdMJOKuo90nyfnj172t4tLeorhB0AqHiEHcRC2EEUYcdvmYad6dOn22Flzz33nL249zXsbLvttnZxXLURI0bYfXGVF3b0GBoep94d56KLLlqrQEGmYUfzolTg4cILLzTdu3c3H374YVGvD2EHACoeYQexEHYQRdjxW9LDjqqWKSColVVsIJXywo56XU444QRbJc2pyLAzcuRIs+GGG9rvlYKIvnYXRAg7AFDxCDuIhbCDKMKO3zINO8uWLbNlnq+55hp7Ea6iBEcccYStxKbqa5rLc/LJJ5tGjRrZAgKaM6PbBx10kA07+lfDslTWWcPMVIpZc3s0/0YBSeWrdbyanpvClQKLAojWnHH7dB/N1VFVtI022sjOa3H7NC9Iwcjd1ro1ZdHcHHesmkKU5vmUtvinq8am0tLuPgoM6oFxSoYd9dQcd9xxpk6dOvb7rlC3evVqu0/hRqFPYUND7po0aWKqVKliCyz861//Ys4OAGQZYQexEHYQRdjxW6Zhx1EFMRUCyKS9/PLLZtGiRfaC32276qqrzLx582yQcttKLpyp8shuX2lNBQ3UmzR69OiibZMmTQrPkJp+V6PnUOlnF0RSUe/RAw88UOw+kydPDvcGSoYdVZGLHn/vvffaoggyYcIEG+RU/lrrFUWPU9McqaVLl9pj0wk7CkiPPvqofU+ONhWYiCLsACh0hB3EQthBlC9hRxfVqtKli/vSLmBXrVplSw27SeCFYF3DTr7R8Dq3bk/JpmFyFU1hR71bM2bMsBXkKoKe54MPPhgr7ChkqXdKPW56X442hTm9Lhwfw46CoHr/9PMprYctF1QpT89Bi8L+8ccf4VYASUPYQSyEHUT5EnY0JEkXfFpDRYEmFa0Vc8ghh9iLw0JRaGFH81/0e5CqqWx1RVPY0bwfDXXToqsV4cYbb7TD9+KEHQUYzSFSSWu9N0fb1VdfbYfNOT6GHc1vOvHEE+3Pp127dmnPu6ooqrKn57DXXnut1dMIIDkIO4iFsIMoX8KOLjR10bfLLrsUq54VpU9vtYClm0yfKX3yrjkn7733XrjFX4UWdjRETkPPUrV33303PKri6MLYnV/vjRVBQ/N0Pg1NK623Y/ny5bYAgn4PtfZPqpCg+U9aI6hLly72ufkYdtQb9sILL9g5X/qgYl3DjtZc0tDBVGsZlUXzuTS3TMFV37dcUyGQZ599NrwFIFsIO4iFsIMon+bsDBgwoMywU1G++OKLvHkNFFrYKQQa9qU5Peeff76dF1UWhTH1nKgohEpc+zpnp2vXrhUSdjQnSr23mQxVVVW+ygo7qkaoqoQAsouwg1gIO4jKddjRpHFdELmmilmOwo6GE+l3tOS+6P30f8dtUyspuk9N91PTcDi9BvR40ccoT/Q5pHO/dUHYSR4VjdAwN60BFIfmsB199NG2Sl7csKPH0BpGs2bNCrfEV9rvuf7vtkdfg1Iy7ETPUfLY6HnU3GPo/zfffLOtbqdCDyXvVx7CDpB8hB3EQthBVK7DjuZk6KLINc3DcNWuFD60bok+2dU+Xfg4qn7l7uNKFGsITefOne02rdeiNWAcDXm75JJLiu6jpq9VF0S6mFK5Za37ok+S45ozZ4456aST7LlyFT4IO8mTi7CjYyZOnJhR0QVN9D/rrLPs73nv3r3DrcYO03KvpZKBomTY0evMHTts2DC7zRkyZEjRPjWVH1dPzhVXXGF23HFHs+mmm5ojjzzSVr9LB2EHSD4vw47Warj77rtpHrXrr7/e1K1bl7ADK5dhR/NyNCH82muvLWpaeb5///526JrCji50tPCj9qnksSpSqWCBxuRr2E/t2rXtxaJ6ZzSHQZPBdaz+1e25c+fakr19+/Y1N9xwg9135plnmqpVq9oV+lXeWOfXOiq60NJwn7i0MKaer86pkKQ5GQpV2eTCTqtWrVK+nmn511q3bp31sJMpDZvTPCEtxKrf80GDBtn5M1qYtmfPnnabmspsRxeejYYdFRDRXCR3rF7zCiLapw8tevXqVbRP6xOdffbZ9oOK+++/314zaPidPrxIdwgeYQdIPu/Cjt6stMgazc+mT9eAXIYdXeRdcMEF4a2AFnGsUaOGDUIl5+zoE2EthqljRBeHukhU2NHz3Xjjje3kaIUbXYxp0UpdTKmIQf369YuG8GjtFJUXdp8UZzpnRxdkqpqlx9PFXIMGDWxvTza5sLPVVlulfB3T8q/p98bXsKPXjhacVfEO/Z7r909DyrSAqtZG0jY1LbyqOURONOzo/uecc07RsXrdq0dUoalZs2b2AzdHHx4oWDnM2QFQFu/CzpIlS+xiaTQ/m9azAPI57Ki3ZosttrDBRv/qdqqwo4ss/c679TcyDTtTp041u+++uz23vme5DDsqrVvyNUzLz6beSl/DjkLGuHHj7IcD+j1XwHFhR6W0tU1Nw0DLCjv64MEdq97Y0sLOL7/8UrSgqxB2AJTFu7ADwH/5HHY0v0dD3Z588smipkUFS4adkjIJO7qQUglgVcXS42hNkVyGHebsJId+/x555BE732zkyJHh1tT0O6+Syvr5azhmtsOOKHwMHjzYho42bdoUhZ2TTz652GtNc4KckmFH4Sx67KhRo1KGnZIIOwDKQtgBkLZchh2tn6GCBCq765oCjkLQtGnTzFtvvWXDkObRaN99991nx/NrKIxEw87kyZPtUBnNm4meT+HAze954okniu1za564sKOLSM3hiUM9Riq4ootAnUv/32yzzexFqIp+ZAthJ5kUIBQQNPdFF+epqvvNmDHDzmNR4NBrIJ11djKlOW/u9aLXql6zGgWg4Waaa+P2qamnc+XKlbZgiOaUaUFPDY/WEHbNoYseq9eZeqh0DgWa6D69Bznap95TFUNQie64pk+fbp+vPjjRY2RShW5dEHaA3CDsAEhbLsOOaMKzhsO4pjVEdBHkqBKUhtBonypCRUXDjixbtswuZhg9nxZoFAWbpk2bFtvnJlSr50gXjdqmC8m49L3S5OnoOdW0gGS2EHaSTRf3LVq0sMO+tdBotCk0qDfHyUXYUbhxv9eaBxelqmnR33sNcdNzSfU604cQ0W3R15mG8UX3RYfDqfqb266emrjU6xo9pwJPLhF2gNwg7ABIW67Dzg8//GB7ZVzTMLDoehqaV6NPabVPFdeiSoYdlazWJ7jR8+miUVatWmU++uijYvs0P0DKeoyyaGiNvl/Rc6pl8+KTsJNs8+fPt70Yhx12mC2JHm0KN59++ml4ZG7CjuYUud9rvVaj9LsY/b2fN29eqa8zfdgQ3RZ9nUUfQy3aMxp9DPdajkMfkkTPqe9rLhF2gNwg7ABIW67DTro0B+C5556z1c/0aa0m6mt4T0XSY+iCU49RWkt3zY+KQthJPs0z0++YfrejTa/NqFyEHd/otV7ytRhtGgarIYGVjbAD5Ealhh0NQ9GYYr05V3RL59MdfZqT6hy5bPq0Ky4NVdC6BqnOk4uWzbkGyA/6PfA57Kj3RsNlNEFaFxPZWNdG71+dOnWyj1Fa0yTrykDYgVOIYWfo0KEpX4+uaZifD98Pwg6QG5Uadn788UdzxBFH2Iumim6vvPJK+CjlU73+VOfIZYuOPy6PPi1WydxU58lF0wRvFDbfw45oFXgNjdGHA6kmclcEDVHTY5TWXNnqXCPswCnEsKMKbqlej65l8z0hHYQdIDcqNexobO++++5rJyHqoqkiWzpjb1XRKdU5ctk0XjiuxYsX2+o1qc6T7XbsscfaUqIobPkQdgoZYQdOOmFHFd7UW7lgwYJwC7KJsAPkhhdh58477wy3wHeao6CypihshB2/EXbgpBN2VL5dlQNnzpwZbkE2EXaA3CDsAEgbYcdvhB04hB1/EXaA3CDsAEgbYcdvhB04hB1/EXaA3CDsAEgbYcdvhB04hB1/EXaA3CDsAKVQaeGpU6easWPHFjVVEMy1L774othzSKdMebYQdvxG2IFD2PEXYQfIDcIOUAqtzdK0aVNTs2bNovbGG2+Ee3PnmmuuKfYcVCq9shF2/EbYgUPY8RdhB8gNwg4KglbRf+KJJ8Jbxjz00EPl/t6tWrXKrmmkBer69Olj1l9/ffPaa6+Fe+N5//337QJ2n3zySbglfVp4V8/BtTvuuMNcfvnlWVkoMy7Cjt8IO3AIO/4i7AC5UalhRwvy6SLy7bffDrcA60ahQkFG7eOPP7YXffq/LvyOPPLIon2HHnqoadSoUdHtsprWYZo4caLZcMMNzSWXXGK3Pffcc3ZxukmTJhUdp8fSY7rbajpevTHqnVFAcEaNGmVGjx4d3opnzZo1ZtiwYea2224zt99+u338ykLY8RthBw5hx1+EHSA3KjXsABVNi61ut912NmDcdNNN5sUXXzQ777yzDSp16tQxO+20k22bbLKJqV27dtHtunXr2p6bHXbYoWib/q9t6klxYadevXp230EHHWTGjRtnunbtarbeemuz3nrr2dD+1FNPmW233dZUr17dbLHFFvb4KlWq2AsIXXhqZe9vvvnGhqAOHTrY/2tbeVasWGHn6iikKThVNsKO3wg7cB5//HFzwgkn2JEU5SHs5BZhB8gNwg4SZdmyZXbo2S677GLDRuvWrc3nn39uDj/8cNOuXTs72V+tTZs25thjjy26ffXVV5t//etf9iLebfvggw/MnnvuWSzsDBgwwO5Tj85RRx1l+vfvbwOOCztLly41b731lr1gUO/Lgw8+aGrVqmUGDx5slixZYmbNmmUOOOAAewHy6KOPmiZNmpg5c+aEz750Wtl81113tc+BsIPyEHbgqAd4wYIF5q+//gq3lI6wk1uEHSA3CDtIlMmTJ9vgcvfdd9tha8cdd5wd/tWiRQvTpUuX8Chje1VOPfXU8JaxgWa//fYrVm1Nc2K0LRp23Jyd+fPnmz322MPce++9Nty4sCOffvqp7V1SoHn11VdtD9J7771n96m622abbWaaN29uw9aWW25ppk+fbveVRY+n4KR266232ufEMDaUhrCDTBB2couwA+QGYQdp0WR5XbD7SgFDQUNzdxR6fA07KszRsmVL+4fuyy+/tPvi0gWseqF0QVtZCDt+I+wgLn1ooveuESNGmKuuusoO6dWHKrqdyxZnmJ2juZGpzpHLlk4gXLRoUcpz6AM5wg6QfYQdpKVTp07m5JNPDm/558knnzQ77rijDWX6w63eE62Xo9Bz5ZVX2qEcapozc8oppxTd1pCzxo0b2z9KCkdq+r+2qSCAhpFpns8rr7xij//qq69s4Lj//vvthYLm6IwcOdLu01A1zdt55JFHzEsvvWTDju6vfRoap3k8gwYNKnpsPVZZ/vnnn6Jj1dRrpQnH3377bXhE7hF2/EbYQVx6LesDGL2HVWZ78803w2dUOr1X6j2wffv2Kc+Ry9axY8fwWZVPSxakOofa+eefHx4FIFsIO0iL72Hnu+++s70vmquj3hX9ET/66KPtvwog+r9a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" id="_b690a653-3b41-4815-9951-bbc428cec778" mimetype="image/png" height="auto" width="auto"/>
+	</figure>
+(XML Line 002623): 'see scls_6-8' is pointing to a normative section
+	<xref target="scls_6-8"/>
+(XML Line 002623): 'see fig3' is pointing to a normative section
+	<xref target="fig3"/>
+(XML Line 002700): 'see scls_6-7-9' is pointing to a normative section
+	<xref target="scls_6-7-9"/>
+(XML Line 002732): Hanging paragraph in clause
+	<clause id="cls_7" inline-header="false" obligation="normative"><title>ISO 8000 series: additional requirements for structure and content of parts</title><clause id="scls_7-1" inline-header="false" obligation="normative"><title>General</title><p id="_2a45a543-3ffd-469d-a60f-83d6ccc43878">For all parts in the ISO 8000 series, the following documents provide applicable requirements:</p>
+	<ul id="_526c3894-98e9-4ec9-84c3-ae5b833fc56f">
+	<li>
+	<p id="_059b8fa0-2d1c-4bbd-ab20-9f392b5387d5">the ISO/IEC Directives, Part 2, 2018, <em>Principles and rules for the structure and drafting of ISO and IEC documents</em>;</p>
+	</li>
+(XML Line 002735): number not broken up in threes: 2018
+	<p id="_059b8fa0-2d1c-4bbd-ab20-9f392b5387d5">the ISO/IEC Directives, Part 2, 2018, <em>Principles and rules for the structure and drafting of ISO and IEC documents</em>;</p>
+(XML Line 002795): Hanging paragraph in clause
+	<clause id="cls_8" inline-header="false" obligation="normative"><title>ISO 10303 series: additional requirements for structure and content of parts</title><clause id="scls_8-1" inline-header="false" obligation="normative"><title>General</title><p id="_213b8d91-9a1a-494f-b11b-08e62a46f2f4">For all parts in the ISO 10303 series, the following documents provide applicable requirements:</p>
+	<ul id="_d427465d-9d4b-487b-9bd3-13249d3a89cf">
+	<li>
+	<p id="_4c112a0b-34d2-470b-92e6-84ebd96f3214">ISO/IEC Directives, Part 2, 2018, <em>Principles and rules for the structure and drafting of ISO and IEC documents;</em></p>
+	</li>
+(XML Line 002795): Hanging paragraph in clause
+	<clause id="scls_8-1" inline-header="false" obligation="normative"><title>General</title><p id="_213b8d91-9a1a-494f-b11b-08e62a46f2f4">For all parts in the ISO 10303 series, the following documents provide applicable requirements:</p>
+	<ul id="_d427465d-9d4b-487b-9bd3-13249d3a89cf">
+	<li>
+	<p id="_4c112a0b-34d2-470b-92e6-84ebd96f3214">ISO/IEC Directives, Part 2, 2018, <em>Principles and rules for the structure and drafting of ISO and IEC documents;</em></p>
+	</li>
+(XML Line 002798): number not broken up in threes: 2018
+	<p id="_4c112a0b-34d2-470b-92e6-84ebd96f3214">ISO/IEC Directives, Part 2, 2018, <em>Principles and rules for the structure and drafting of ISO and IEC documents;</em></p>
+(XML Line 002813): 'see scls_8-2' is pointing to a normative section
+	<xref target="scls_8-2"/>
+(XML Line 002816): 'see scls_8-3' is pointing to a normative section
+	<xref target="scls_8-3"/>
+(XML Line 002819): 'see scls_8-4' is pointing to a normative section
+	<xref target="scls_8-4"/>
+(XML Line 002822): 'see scls_8-5' is pointing to a normative section
+	<xref target="scls_8-5"/>
+(XML Line 002833): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002841): Hanging paragraph in clause
+	<clause id="scls_8-1-3" inline-header="false" obligation="normative"><title>Computer interpretable listing annex</title><clause id="scls_8-1-3-1" inline-header="false" obligation="normative"><title>Documents that include EXPRESS</title><p id="_054175b2-3574-40c0-a04b-54620753d7ef">This annex shall provide electronic access to the list of short names provided in the annex “short names” and the EXPRESS specified in the part. This access is provided through the specification of URLs that identify the location of these files on the Internet. The EXPRESS file shall not contain any intervening prose; the EXPRESS listing for all schemas shall be found in one file. The listing shall not contain any comment delimiters of the kind “<strong>)”</strong> and “(” that separate the EXPRESS declarations from the main body of the prose. However, tail comments (those beginning with “—”) may be included.</p>
+	<p id="_490d980b-d14d-4aa9-a03c-ae0d4d5f4f78">The text of this annex is an ISO 10303 required text (see <xref target="scls_5-3"/> for implementing the required text).</p>
+	<p id="_5e483c33-cad6-458f-8d3d-44c0c4ca10cd">An example reads as follows:</p>
+	<sourcecode id="_c177aa19-c05c-45ea-9e56-e2e4b8458bff" unnumbered="true">[ISO_10303:10303_annex-comp-int]
+	
+(XML Line 002842): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002862): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002881): Hanging paragraph in clause
+	<clause id="scls_8-2" inline-header="false" obligation="normative"><title>Documentation of Integrated resources series (IR)</title><clause id="scls_8-2-1" inline-header="false" obligation="normative"><title>General</title><p id="_2a2256d6-0bee-4128-b537-670e38f5d22a">For the documentation of the integrated resources series of parts for ISO 10303 the following documents apply:</p>
+	<ul id="_9fc4e0a7-30c0-4ec6-a155-75273751a00f">
+	<li>
+	<p id="_977d84d4-b2e2-464c-853a-6f054229306c">Documents listed in <xref target="scls_8-1"/>;</p>
+	</li>
+(XML Line 002895): 'see cls_6' is pointing to a normative section
+	<xref target="cls_6"/>
+(XML Line 002928): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 002954): 'see scls_5-5-4' is pointing to a normative section
+	<xref target="scls_5-5-4"/>
+(XML Line 002954): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 003056): Hanging paragraph in clause
+	<clause id="cls_9" inline-header="false" obligation="normative"><title>ISO 15926 series: additional requirements for structure and content of parts</title><clause id="scls_9-1" inline-header="false" obligation="normative"><title>General</title><p id="_7f291957-00fe-4998-9a37-5b93e33d31c3">For all parts in the ISO 15926 series, the following documents provide applicable requirements:</p>
+	<ul id="_4ef5f896-e78b-41c3-b0a3-9b7a82baeacd">
+	<li>
+	<p id="_e0f16ffe-9b51-4405-9cf9-9e268f4ed74a">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+	</li>
+(XML Line 003059): number not broken up in threes: 2018
+	<p id="_e0f16ffe-9b51-4405-9cf9-9e268f4ed74a">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+(XML Line 003066): 'see scls_5-3' is pointing to a normative section
+	<xref target="scls_5-3"/>
+(XML Line 003115): Hanging paragraph in clause
+	<clause id="cls_10" inline-header="false" obligation="normative"><title>ISO 18876 series: additional requirements for structure and content of parts</title><clause id="scls_10-1" inline-header="false" obligation="normative"><title>General</title><p id="_639d1519-a143-4e9f-bf35-a9ca73a033ab">For all parts in the ISO 18876 series, the following documents provide applicable requirements:</p>
+	<ul id="_642cf830-4e46-49aa-93a5-17b5cfd97e22">
+	<li>
+	<p id="_930572b9-b772-4eb6-9018-c3166113d30f">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+	</li>
+(XML Line 003118): number not broken up in threes: 2018
+	<p id="_930572b9-b772-4eb6-9018-c3166113d30f">the ISO/IEC Directives, Part 2, 2018, Principles and rules for the structure and drafting of ISO and IEC documents;</p>
+(XML Line 003143): Hanging paragraph in clause
+	<annex id="annexA" inline-header="false" obligation="informative"><title>Tutorial on ASN.1 identifiers</title><clause id="_introduction" inline-header="false" obligation="informative"><title>Introduction</title><p id="_f278009b-ca22-45e6-acf2-06957e3f7431">SC 4 uses three separate terms to manage the various components of its standards. These terms are as follows:</p>
+	<ul id="_512e96d2-27f3-48f6-836d-4aae944095ca">
+	<li>
+	<p id="_67cea4ec-ee1c-4194-a389-9d298e4dd6d5">edition;</p>
+	</li>
+(XML Line 003286): number not broken up in threes: 10303
+	<td valign="top" align="left">The references to 10303 have been removed.</td>
+(XML Line 003295): number not broken up in threes: 10303
+	<p id="_b3692638-91a3-490f-937c-c71267be31ed">Modified as appropriate, the references to 10303 have been removed.<br/>
+	Table 1 revision history has been moved to the inside cover.<br/>
+	Main changes updated and moved to the Foreword.<br/>
+	Target audience has been moved to the cover.<br/>
+	Characteristic of a standard has been moved to the Clause 4 and renamed: Characteristics of an SC 4 standard<br/>
+(XML Line 003295): possible decimal point: 5.3
+	<p id="_b3692638-91a3-490f-937c-c71267be31ed">Modified as appropriate, the references to 10303 have been removed.<br/>
+	Table 1 revision history has been moved to the inside cover.<br/>
+	Main changes updated and moved to the Foreword.<br/>
+	Target audience has been moved to the cover.<br/>
+	Characteristic of a standard has been moved to the Clause 4 and renamed: Characteristics of an SC 4 standard<br/>
+(XML Line 003324): possible decimal point: 3.1
+	<td valign="top" align="left">3.1 Terms defined in ISO/IEC Directives, Part 2 Terms added</td>
+(XML Line 003328): possible decimal point: 3.1
+	<td valign="top" align="left">3.1 Terms defined in ISO 10303-1</td>
+(XML Line 003330): possible decimal point: 3.2
+	<p id="_17616dab-df30-4634-9861-927efb5780bf">3.2 Terms defined in ISO/DIS 10303-1:2020<br/>
+	Terms has been modified to follow the changes in the document.</p>
+(XML Line 003336): possible decimal point: 3.2
+	<td valign="top" align="left">3.2 Terms defined in ISO 10303-31</td>
+(XML Line 003346): possible decimal point: 3.4
+	<td valign="top" align="left">3.4 Terms defined in ISO/IEC Directives, Part 2</td>
+(XML Line 003347): possible decimal point: 3.1
+	<td valign="top" align="left">Moved to 3.1</td>
+(XML Line 003351): possible decimal point: 3.5
+	<td valign="top" align="left">3.5 Other terms and definitions</td>
+(XML Line 003356): possible decimal point: 3.6
+	<td valign="top" align="left">3.6 Abbreviations</td>
+(XML Line 003363): number not broken up in threes: 2018
+	<p id="_e06cad64-1c8a-4d64-927e-308e5853b894">Moved to 5.<br/>
+	Table 2 replace by the table 2 of the ISO/IEC Directives, Part 2, 2018 and adapted to the SC 4 rules.<br/>
+	Annexes modified to optional, Index modified to optional.</p>
+(XML Line 003370): possible decimal point: 4.1
+	<td valign="top" align="left">4.1 Preliminary elements</td>
+(XML Line 003372): number not broken up in threes: 2018
+	<p id="_f3a52a24-20fe-4c6a-8b2f-97938ef26749">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Table of contents; Patent rights;</p>
+(XML Line 003372): possible decimal point: 5.4
+	<p id="_f3a52a24-20fe-4c6a-8b2f-97938ef26749">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Table of contents; Patent rights;</p>
+(XML Line 003379): possible decimal point: 4.1
+	<td valign="top" align="left">4.1.5 Introduction</td>
+(XML Line 003380): number not broken up in threes: 2018
+	<td valign="top" align="left">4.1.5 “hanging paragraph”<br/>
+	Removed as the rules are defined in ISO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003380): possible decimal point: 4.1
+	<td valign="top" align="left">4.1.5 “hanging paragraph”<br/>
+	Removed as the rules are defined in ISO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003385): possible decimal point: 4.1
+	<td valign="top" align="left">4.1.5.1 Wording for the introduction of parts of ISO 10303</td>
+(XML Line 003387): possible decimal point: 8.2
+	<p id="_a7435ce8-ade8-4e36-b7d7-dce06e9d26cf">The specific wording for Integrated resources series has been moved to 8.2<br/>
+	The specific wording has been removed. It will be managed as described in 5.3</p>
+(XML Line 003393): possible decimal point: 4.1
+	<td valign="top" align="left">4.1.5.2 Patent rights</td>
+(XML Line 003395): number not broken up in threes: 2018
+	<p id="_0eed5e51-3c30-4768-ab3f-e4240415188d">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Table of contents; Patent rights;</p>
+(XML Line 003395): possible decimal point: 5.4
+	<p id="_0eed5e51-3c30-4768-ab3f-e4240415188d">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Table of contents; Patent rights;</p>
+(XML Line 003402): possible decimal point: 4.1
+	<td valign="top" align="left">4.1.5.3 Translation issues</td>
+(XML Line 003403): possible decimal point: 5.3
+	<td valign="top" align="left">Removed. This will be managed as boilerplate. See 5.3</td>
+(XML Line 003407): possible decimal point: 4.2
+	<td valign="top" align="left">4.2 Normative elements</td>
+(XML Line 003409): number not broken up in threes: 2018
+	<p id="_9a6f0ecf-8181-4e5c-949c-efb6504bda51">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.2.7.2<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Scope<br/>
+	The specific wording has been removed. It will be manage as described in 5.3</p>
+(XML Line 003409): possible decimal point: 4.2
+	<p id="_9a6f0ecf-8181-4e5c-949c-efb6504bda51">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.2.7.2<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Scope<br/>
+	The specific wording has been removed. It will be manage as described in 5.3</p>
+(XML Line 003418): possible decimal point: 4.2
+	<td valign="top" align="left">4.2.5.4 Symbols and abbreviations</td>
+(XML Line 003420): number not broken up in threes: 2018
+	<p id="_152dadd9-eeb4-40fd-bb08-25d1494bb459">Removed. ISO/IEC Directives, Part 2, 2018 apply.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Symbols and abbreviated terms</p>
+(XML Line 003420): possible decimal point: 5.4
+	<p id="_152dadd9-eeb4-40fd-bb08-25d1494bb459">Removed. ISO/IEC Directives, Part 2, 2018 apply.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Symbols and abbreviated terms</p>
+(XML Line 003427): possible decimal point: 4.2
+	<td valign="top" align="left">4.2.7.2 Information object registration annex</td>
+(XML Line 003428): possible decimal point: 5.3
+	<td valign="top" align="left">Moved to 5.3.4 Use of ASN.1 Identifiers in SC 4 standards (optional).</td>
+(XML Line 003432): possible decimal point: 4.3
+	<td valign="top" align="left">4.3 Supplementary Elements</td>
+(XML Line 003434): number not broken up in threes: 2018
+	<p id="_99a46771-a82b-478f-899f-909db4e7255a">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.3.3.</p>
+(XML Line 003434): possible decimal point: 4.3
+	<p id="_99a46771-a82b-478f-899f-909db4e7255a">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.3.3.</p>
+(XML Line 003440): possible decimal point: 4.3
+	<td valign="top" align="left">4.3.3 Index</td>
+(XML Line 003441): possible decimal point: 5.3
+	<td valign="top" align="left">Moved to 5.3.3</td>
+(XML Line 003445): possible decimal point: 4.4
+	<td valign="top" align="left">4.4 Figures, tables, notes, examples, and footnote</td>
+(XML Line 003446): number not broken up in threes: 2018
+	<td valign="top" align="left">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003450): possible decimal point: 4.5
+	<td valign="top" align="left">4.5 Lists</td>
+(XML Line 003451): number not broken up in threes: 2018
+	<td valign="top" align="left">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003455): possible decimal point: 4.6
+	<td valign="top" align="left">4.6 References within the text</td>
+(XML Line 003457): number not broken up in threes: 2018
+	<p id="_e02c7c77-5f8f-4dec-af89-6d7d9f11c3a5">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.6.3</p>
+(XML Line 003457): possible decimal point: 4.6
+	<p id="_e02c7c77-5f8f-4dec-af89-6d7d9f11c3a5">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.6.3</p>
+(XML Line 003463): possible decimal point: 4.6
+	<td valign="top" align="left">4.6.3 References to subdivisions of the text</td>
+(XML Line 003464): number not broken up in threes: 2018
+	<td valign="top" align="left">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018, 22.4</td>
+(XML Line 003464): possible decimal point: 22.4
+	<td valign="top" align="left">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018, 22.4</td>
+(XML Line 003468): possible decimal point: 4.7
+	<td valign="top" align="left">4.7 Punctuation of words in a series</td>
+(XML Line 003469): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.8</td>
+(XML Line 003473): possible decimal point: 4.8
+	<td valign="top" align="left">4.8 Acceptable wording</td>
+(XML Line 003475): number not broken up in threes: 2018
+	<p id="_cd74542e-e03a-4937-b2e6-e6fab7400d4a">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.8.6 and 4.8.7</p>
+(XML Line 003475): possible decimal point: 4.8
+	<p id="_cd74542e-e03a-4937-b2e6-e6fab7400d4a">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Except 4.8.6 and 4.8.7</p>
+(XML Line 003481): possible decimal point: 4.8
+	<td valign="top" align="left">4.8.6 Use of “i.e.”, “e.g.”, and “etc.</td>
+(XML Line 003482): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.9 and updated</td>
+(XML Line 003486): possible decimal point: 4.8
+	<td valign="top" align="left">4.8.7 Use of quotation marks</td>
+(XML Line 003487): possible decimal point: 8.1
+	<td valign="top" align="left">Moved to 8.1.1</td>
+(XML Line 003491): possible decimal point: 4.8
+	<td valign="top" align="left">4.8.8 Spelling</td>
+(XML Line 003492): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.11</td>
+(XML Line 003496): possible decimal point: 4.9
+	<td valign="top" align="left">4.9 Hyphenation</td>
+(XML Line 003497): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.11</td>
+(XML Line 003501): possible decimal point: 4.10
+	<td valign="top" align="left">4.10 Words to avoid</td>
+(XML Line 003503): number not broken up in threes: 2018
+	<p id="_3a08113b-8caa-492c-b9cc-11f051ac8b77">The two first paragraphs are defined by the ISO/IEC Directives, Part 2, 2018 then they have been removed.<br/>
+	The rest of the subclause has been moved to 5.4.11</p>
+(XML Line 003503): possible decimal point: 5.4
+	<p id="_3a08113b-8caa-492c-b9cc-11f051ac8b77">The two first paragraphs are defined by the ISO/IEC Directives, Part 2, 2018 then they have been removed.<br/>
+	The rest of the subclause has been moved to 5.4.11</p>
+(XML Line 003509): possible decimal point: 4.11
+	<td valign="top" align="left">4.11 Frequently used words</td>
+(XML Line 003510): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.11</td>
+(XML Line 003514): possible decimal point: 4.12
+	<td valign="top" align="left">4.12 Representation of dates</td>
+(XML Line 003515): number not broken up in threes: 2018
+	<td valign="top" align="left">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003521): number not broken up in threes: 2018
+	<p id="_6e180ecd-e40f-4f89-9733-a36236446b3b">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Landscape;</p>
+(XML Line 003521): possible decimal point: 5.4
+	<p id="_6e180ecd-e40f-4f89-9733-a36236446b3b">Removed as the rules are defined in SO/IEC Directives, Part 2, 2018.<br/>
+	Some topics are still described. See 5.4 Focus on some specific topics:<br/>
+	Landscape;</p>
+(XML Line 003526): number not broken up in threes: 8166
+	<p id="_00505348-71a6-4573-99ad-9cb43b0ceeca">Correct typo (comment N0-008)<br/>
+	Rewrite 5.3 Required text (comments US-006, US-007 and NO-008). All the header of the required text fragment have been reworked.<br/>
+	<strong>Move sentence</strong> “”A tutorial on the ASN.1 identifier is provided in Annex A” to 5.4.4.1 (comment NO-010)<br/>
+	Addition of a paragraph: “Computer sorting” (BZ 8166)<br/>
+	5.5.1 reworked (comments US-011 and US-033)<br/>
+(XML Line 003526): possible decimal point: 5.3
+	<p id="_00505348-71a6-4573-99ad-9cb43b0ceeca">Correct typo (comment N0-008)<br/>
+	Rewrite 5.3 Required text (comments US-006, US-007 and NO-008). All the header of the required text fragment have been reworked.<br/>
+	<strong>Move sentence</strong> “”A tutorial on the ASN.1 identifier is provided in Annex A” to 5.4.4.1 (comment NO-010)<br/>
+	Addition of a paragraph: “Computer sorting” (BZ 8166)<br/>
+	5.5.1 reworked (comments US-011 and US-033)<br/>
+(XML Line 003539): number not broken up in threes: 2018
+	<p id="_1faa9eb1-2211-41d5-a024-e3e4186fa6f5">6.1 General added to avoid hanging paragraph<br/>
+	The clause has been updated with the annexes B3, B4 and B5 of the document “Developer Manual, Express Engine 5.0.20 <eref type="inline" bibitemid="expressEng" citeas="[13]"/> ».<br/>
+	The cross-references have been updated, some within the document and other to ISO/IEC Directives, Part 2, 2018.<br/>
+	6.2 Expressions has been added.<br/>
+	6.3 Statements has been added.<br/>
+(XML Line 003539): possible decimal point: 6.1
+	<p id="_1faa9eb1-2211-41d5-a024-e3e4186fa6f5">6.1 General added to avoid hanging paragraph<br/>
+	The clause has been updated with the annexes B3, B4 and B5 of the document “Developer Manual, Express Engine 5.0.20 <eref type="inline" bibitemid="expressEng" citeas="[13]"/> ».<br/>
+	The cross-references have been updated, some within the document and other to ISO/IEC Directives, Part 2, 2018.<br/>
+	6.2 Expressions has been added.<br/>
+	6.3 Statements has been added.<br/>
+(XML Line 003547): number not broken up in threes: 7435
+	<p id="_fd750e8f-62b7-403a-bdfe-2ebe56820e4e">Error correction in the example (comment NO-015)<br/>
+	Correction of a lot of underscore missing in the Clause 6. (comments NO-018, NO-019 and N0-020)<br/>
+	6.2.10 reworked (comments N0-016 and NO-017)<br/>
+	6.3.33 added to resolve BZ 7435<br/>
+	Typo and editorial corrections.</p>
+(XML Line 003547): possible decimal point: 6.2
+	<p id="_fd750e8f-62b7-403a-bdfe-2ebe56820e4e">Error correction in the example (comment NO-015)<br/>
+	Correction of a lot of underscore missing in the Clause 6. (comments NO-018, NO-019 and N0-020)<br/>
+	6.2.10 reworked (comments N0-016 and NO-017)<br/>
+	6.3.33 added to resolve BZ 7435<br/>
+	Typo and editorial corrections.</p>
+(XML Line 003555): possible decimal point: 6.1
+	<td valign="top" align="left">6.1 Layout rules</td>
+(XML Line 003560): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.6 Layout of a schema</td>
+(XML Line 003565): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.7 Layout of interface statements</td>
+(XML Line 003570): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.8 Layout of a constant declaration</td>
+(XML Line 003575): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.9 TYPE layout</td>
+(XML Line 003580): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.10 Algorithm layout</td>
+(XML Line 003585): possible decimal point: 6.1
+	<td valign="top" align="left">6.1.11 Entity data type declaration layout</td>
+(XML Line 003590): possible decimal point: 6.2
+	<td valign="top" align="left">6.2 Style rules</td>
+(XML Line 003591): possible decimal point: 6.5
+	<td valign="top" align="left">Moved to 6.5 and updated</td>
+(XML Line 003593): possible decimal point: 6.5
+	<p id="_9a7a8cce-ef2d-46d1-aca5-a7f8495a17cb">6.5.1 Use of case updated (comment NO-021)<br/>
+	6.5.2.1 SCHEMA names moved to Clause 8 (comment NO-022)</p>
+(XML Line 003598): possible decimal point: 6.3
+	<td valign="top" align="left">6.3.3 Definition of constraints</td>
+(XML Line 003599): possible decimal point: 6.6
+	<td valign="top" align="left">Moved to 6.6.3 and updated</td>
+(XML Line 003604): possible decimal point: 6.6
+	<td valign="top" align="left">6.6 EXPRESS usage style requirements</td>
+(XML Line 003606): possible decimal point: 6.6
+	<p id="_9b202c46-6e03-4532-ad82-30af94406079">6.6.1 updated (comments US-024, US-025 and US-026)<br/>
+	6.6.3 removed (comment US-027)</p>
+(XML Line 003611): possible decimal point: 6.5
+	<td valign="top" align="left">6.5 EXPRESS-G diagram style</td>
+(XML Line 003612): possible decimal point: 6.7
+	<td valign="top" align="left">Moved to 6.7 and updated</td>
+(XML Line 003613): possible decimal point: 6.7
+	<td valign="top" align="left">6.7.9.2 updated (comment US-028)</td>
+(XML Line 003618): possible decimal point: 6.9
+	<td valign="top" align="left">6.9.1 updated (comment US-029)-</td>
+(XML Line 003622): possible decimal point: 8.2
+	<td valign="top" align="left">Moved to 8.2 and updated</td>
+(XML Line 003632): possible decimal point: 8.1
+	<p id="_08e1523e-1fd9-4abd-a0d2-7c0e313bdc89">8.1.6 updated (comment NO-023)<br/>
+	8.2.1 updated (comment NO-030)<br/>
+	8.2.6 Index paragraph added.<br/>
+	8.3 updated (comment NO-031)<br/>
+	8.5 updated (comment NO-030)<br/>
+(XML Line 003642): possible decimal point: 8.3
+	<td valign="top" align="left">Moved to 8.3 and updated</td>
+(XML Line 003652): possible decimal point: 8.4
+	<td valign="top" align="left">Moved to 8.4 and updated</td>
+(XML Line 003687): number not broken up in threes: 2018
+	<td valign="top" align="left">Removed as the Technical Corrigenda is no more in use. Amendment follows the ISO/IEC Directives, Part 2, 2018.</td>
+(XML Line 003698): possible decimal point: 5.3
+	<p id="_7c8b2573-46b8-40b9-b393-726563b23972">Moved to 5.3.4 for the paragraphs related SC 4.<br/>
+	Moved to Annex A for the “Tutorial”</p>
+(XML Line 003705): possible decimal point: 6.9
+	<td valign="top" align="left">Examples regarding EXPRESS have been moved to 6.9 and delete the other are they are already addressed by the Directives or by some specific SC 4 documents.</td>
+(XML Line 003710): possible decimal point: 5.4
+	<td valign="top" align="left">Moved to 5.4.5</td>
+(XML Line 003715): possible decimal point: 5.2
+	<td valign="top" align="left">Moved to 5.2</td>
+
+
+== Metanorma XML Syntax
+
+(XML Line 000336:15): element "clause" incomplete; missing required element "clause"
+(XML Line 000342:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000349:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000353:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000357:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000361:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000390:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000394:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000397:48): element "ol" missing required attribute "type"
+(XML Line 000411:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000418:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000422:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000431:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000435:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000439:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000446:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000453:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000457:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000467:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000474:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000485:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000499:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000509:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000520:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000531:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000545:31): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000553:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000557:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000560:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000564:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000567:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000571:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000574:194): element "fn" not allowed here; expected the element end-tag, text or element "add", "bookmark", "br", "concept", "del", "em", "eref", "hr", "image", "index", "index-xref", "keyword", "link", "note", "pagebreak", "ruby", "smallcap", "stem", "strike", "strong", "sub", "sup", "tt", "underline" or "xref"
+(XML Line 000577:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000581:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000584:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000588:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000598:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000602:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000606:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000620:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000624:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000637:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000641:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000653:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000660:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000668:11): element "admitted" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000677:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000681:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000685:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000689:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000693:32): element "termsource" not allowed here; expected the element end-tag or element "admonition", "bookmark", "clause", "definitions", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table", "terms" or "ul"
+(XML Line 000850:15): element "clause" incomplete; missing required element "clause"
+(XML Line 000851:216): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000868:17): element "clause" incomplete; missing required element "clause"
+(XML Line 000883:157): element "clause" incomplete; missing required element "clause"
+(XML Line 000907:133): element "clause" incomplete; missing required element "clause"
+(XML Line 000908:167): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000966:18): element "clause" incomplete; missing required element "clause"
+(XML Line 000970:17): element "clause" incomplete; missing required element "clause"
+(XML Line 000982:134): element "clause" incomplete; missing required element "clause"
+(XML Line 000983:209): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 000991:134): element "clause" incomplete; missing required element "clause"
+(XML Line 001002:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001014:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001027:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001028:196): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 001103:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001115:15): element "clause" incomplete; missing required element "clause"
+(XML Line 001118:212): element "clause" incomplete; missing required element "clause"
+(XML Line 001161:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001162:184): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 001165:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001178:186): element "clause" incomplete; missing required element "clause"
+(XML Line 001183:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001187:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001188:53): element "definitions" not allowed here; expected the element end-tag or element "clause"
+(XML Line 001212:20): element "definitions" incomplete; missing required element "dl"
+(XML Line 001233:15): element "clause" incomplete; missing required element "clause"
+(XML Line 001237:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001239:288): element "clause" incomplete; missing required element "clause"
+(XML Line 001245:15): element "clause" incomplete; missing required element "clause"
+(XML Line 001249:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001250:173): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 001289:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001334:18): element "clause" incomplete; missing required element "clause"
+(XML Line 001352:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001367:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001393:166): element "clause" incomplete; missing required element "clause"
+(XML Line 001397:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001408:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001431:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001458:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001485:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001516:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001517:174): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 001540:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001567:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001581:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001598:145): element "clause" incomplete; missing required element "clause"
+(XML Line 001605:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001635:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001641:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001645:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001650:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001654:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001657:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001660:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001663:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001666:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001669:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001672:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001675:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001678:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001681:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001684:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001687:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001694:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001701:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001708:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001715:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001722:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001729:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001736:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001743:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001750:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001757:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001766:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001774:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001784:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001789:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001796:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001802:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001811:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001826:20): element "clause" incomplete; missing required element "clause"
+(XML Line 001831:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001835:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001845:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001856:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001864:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001871:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001874:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001885:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001888:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001897:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001904:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001907:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001912:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001915:10): element "clause" incomplete; missing required element "clause"
+(XML Line 001921:212): element "clause" incomplete; missing required element "clause"
+(XML Line 001966:380): element "clause" incomplete; missing required element "clause"
+(XML Line 002000:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002007:243): element "clause" incomplete; missing required element "clause"
+(XML Line 002020:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002024:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002058:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002062:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002063:184): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002073:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002078:17): element "clause" incomplete; missing required element "clause"
+(XML Line 002099:17): element "clause" incomplete; missing required element "clause"
+(XML Line 002110:277): element "clause" incomplete; missing required element "clause"
+(XML Line 002164:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002173:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002176:330): element "clause" incomplete; missing required element "clause"
+(XML Line 002206:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002227:220): element "clause" incomplete; missing required element "clause"
+(XML Line 002274:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002275:186): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002284:147): element "clause" incomplete; missing required element "clause"
+(XML Line 002346:147): element "clause" incomplete; missing required element "clause"
+(XML Line 002350:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002357:17): element "clause" incomplete; missing required element "clause"
+(XML Line 002409:17): element "clause" incomplete; missing required element "clause"
+(XML Line 002427:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002428:205): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002480:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002511:20): element "clause" incomplete; missing required element "clause"
+(XML Line 002551:221): element "clause" incomplete; missing required element "clause"
+(XML Line 002561:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002570:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002630:15): element "clause" incomplete; missing required element "clause"
+(XML Line 002631:160): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002707:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002739:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002740:222): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002749:192): element "clause" incomplete; missing required element "clause"
+(XML Line 002797:17): element "clause" incomplete; missing required element "clause"
+(XML Line 002802:146): element "clause" incomplete; missing required element "clause"
+(XML Line 002803:223): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002840:130): element "clause" incomplete; missing required element "clause"
+(XML Line 002848:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002849:192): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002864:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002868:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002886:134): element "clause" incomplete; missing required element "clause"
+(XML Line 002888:174): element "clause" incomplete; missing required element "clause"
+(XML Line 002889:201): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 002909:247): element "clause" incomplete; missing required element "clause"
+(XML Line 002935:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002960:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002983:504): element "clause" incomplete; missing required element "clause"
+(XML Line 002987:10): element "clause" incomplete; missing required element "clause"
+(XML Line 002993:228): element "clause" incomplete; missing required element "clause"
+(XML Line 003026:15): element "clause" incomplete; missing required element "clause"
+(XML Line 003045:195): element "clause" incomplete; missing required element "clause"
+(XML Line 003063:15): element "clause" incomplete; missing required element "clause"
+(XML Line 003064:223): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 003073:183): element "clause" incomplete; missing required element "clause"
+(XML Line 003117:17): element "clause" incomplete; missing required element "clause"
+(XML Line 003122:146): element "clause" incomplete; missing required element "clause"
+(XML Line 003123:225): element "clause" not allowed yet; expected element "admonition", "amend", "bookmark", "dl", "example", "figure", "formula", "hr", "imagemap", "note", "ol", "p", "pagebreak", "permission", "pre", "quote", "recommendation", "requirement", "review", "sourcecode", "svgmap", "table" or "ul"
+(XML Line 003132:192): element "clause" incomplete; missing required element "clause"
+(XML Line 003150:17): element "clause" incomplete; missing required element "clause"
+(XML Line 003753:1099): value of attribute "type" is invalid; must be equal to "alert", "archival", "article", "audiovisual", "book", "booklet", "broadcast", "conversation", "dataset", "electronic resource", "film", "graphic_work", "inbook", "incollection", "inproceedings", "internal", "journal", "manual", "map", "message", "misc", "music", "patent", "presentation", "proceedings", "social_media", "software", "standard", "techreport", "thesis", "unpublished", "video", "webresource" or "website"
+(XML Line 003753:54): value of attribute "type" is invalid; must be equal to "alert", "archival", "article", "audiovisual", "book", "booklet", "broadcast", "conversation", "dataset", "electronic resource", "film", "graphic_work", "inbook", "incollection", "inproceedings", "internal", "journal", "manual", "map", "message", "misc", "music", "patent", "presentation", "proceedings", "social_media", "software", "standard", "techreport", "thesis", "unpublished", "video", "webresource" or "website"

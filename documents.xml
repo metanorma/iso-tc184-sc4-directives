@@ -1,0 +1,63 @@
+<relaton-collection xmlns="https://open.ribose.com/relaton-xml"><title>Public committee documents</title><contributor><role type='author'/><organization><name>ISO/TC 184/SC 4</name></organization></contributor><relation type='partOf'><bibdata type="standard">
+  <title type="main" format="text/plain" language="en">Rules for the structure and drafting of SC 4 standards for industrial data</title>
+  <title type="title-main" format="text/plain" language="en">Rules for the structure and drafting of SC 4 standards for industrial data</title>
+  <title type="main" format="text/plain" language="fr">Règles pour la structure et la rédaction des normes SC 4 pour les données industrielles</title>
+  <title type="title-main" format="text/plain" language="fr">Règles pour la structure et la rédaction des normes SC 4 pour les données industrielles</title>
+  <uri type="xml">documents/supplementary-directives/document.xml</uri>
+  <uri type="pdf">documents/supplementary-directives/document.pdf</uri>
+  <uri type="doc">documents/supplementary-directives/document.doc</uri>
+  <uri type="html">documents/supplementary-directives/document.html</uri>
+  <uri type="rxl">documents/supplementary-directives/document.rxl</uri>
+  <docidentifier type="ISO">ISO 3554:2021</docidentifier>
+  <docidentifier type="iso-with-lang">ISO 3554:2021(E)</docidentifier>
+  <docidentifier type="iso-reference">ISO 3554:2021(E)</docidentifier>
+  <docidentifier type="iso-tc">3554</docidentifier>
+  <docnumber>3554</docnumber>
+  <contributor>
+    <role type="author"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <contributor>
+    <role type="publisher"/>
+    <organization>
+      <name>International Organization for Standardization</name>
+      <abbreviation>ISO</abbreviation>
+    </organization>
+  </contributor>
+  <edition>6</edition>
+  <version>
+    <revision-date>2021-01-05</revision-date>
+  </version>
+  <language>en</language>
+  <script>Latn</script>
+  <status>
+    <stage abbreviation="IS">60</stage>
+    <substage>60</substage>
+  </status>
+  <copyright>
+    <from>2021</from>
+    <owner>
+      <organization>
+        <name>International Organization for Standardization</name>
+        <abbreviation>ISO</abbreviation>
+      </organization>
+    </owner>
+  </copyright>
+  <ext>
+    <doctype>guide</doctype>
+    <editorialgroup>
+      <technical-committee number="184">Industrial Automation Systems and Integration</technical-committee>
+      <subcommittee number="4">Industrial Data</subcommittee>
+      <workgroup></workgroup>
+      <secretariat>ANSI</secretariat>
+    </editorialgroup>
+    <structuredidentifier>
+      <project-number>ISO 3554</project-number>
+    </structuredidentifier>
+    <stagename>International standard</stagename>
+  </ext>
+</bibdata></relation>
+</relaton-collection>
