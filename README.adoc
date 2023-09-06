@@ -1,6 +1,7 @@
 = ISO/TC 184/SC 4 standing documents
 
 image:https://github.com/metanorma/iso-tc184-sc4-directives/workflows/docker/badge.svg["Docker Build Status", link="https://github.com/metanorma/iso-tc184-sc4-directives/actions?query=workflow%3Adocker"]
+image:https://github.com/metanorma/iso-tc184-sc4-directives/workflows/generate/badge.svg["Docker Build Status", link="https://github.com/metanorma/iso-tc184-sc4-directives/actions/workflows/docker.yml"]
 
 == Purpose
 
