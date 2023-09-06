@@ -4,64 +4,44 @@ name: docker
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
   pull_request:
-    paths-ignore:
-      - .gitlab-ci.yml
-      - .github/workflows/test.yml
-      - .github/workflows/macos.yml
-      - .github/workflows/ubuntu.yml
-      - .github/workflows/windows.yml
-      - .github/workflows/docker-pres_xml.yml
+  workflow_dispatch:
 
-  repository_dispatch:
-    types: [ metanorma/metanorma-docker ]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: true
 
 jobs:
-  test-docker:
+  build:
     runs-on: ubuntu-latest
-    container: docker://metanorma/mn
+    container:
+      image: metanorma/metanorma:latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.METANORMA_CI_PAT_TOKEN || github.token }}
           submodules: true
 
-      - name: Install gems from local Gemfile
-        run: curl -L --retry 3 https://raw.githubusercontent.com/metanorma/metanorma-build-scripts/master/gemfile-to-bundle-add.sh | bash
-
-      - run: metanorma site generate --agree-to-terms
-        env:
-          LC_ALL: C.UTF-8
-          LANG: C.UTF-8
-          LANGUAGE: C.UTF-8
-
-      - uses: actions/upload-artifact@master
-        with:
-          name: site
-          path: site
-
-  deploy-gh-pages:
-    if: github.ref == 'refs/heads/master'
-    runs-on: ubuntu-latest
-    needs: test-docker
-    steps:
-      - uses: actions/checkout@v2
-
-      - uses: actions/download-artifact@v1
-        with:
-          name: site
-
-      - uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./site
-          force_orphan: true
-          user_name: ${{ github.actor }}
-          user_email: ${{ format('{0}@users.noreply.github.com', github.actor) }}
-          commit_message: "${{ format('Deploy to GitHub Pages: {0}', github.sha) }}"
-
-      - uses: kolpav/purge-artifacts-action@v1
+      - name: Metanorma generate site
+        uses: actions-mn/build-and-publish@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          expire-in: 0
+          agree-to-terms: true
+
+  deploy:
+    if: ${{ github.ref_name == github.event.repository.default_branch }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
